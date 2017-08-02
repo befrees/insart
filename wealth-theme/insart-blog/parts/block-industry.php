@@ -1,8 +1,8 @@
 <section class="feautured-post" data-block="block-3">
         <h2 class="sidebar__ttl">WealthTech Insights</h2>
         <?php 
-        $_posts = new WP_Query('cat=70&posts_per_page=-1');
-        // $_posts = new WP_Query('cat=94&posts_per_page=-1');
+        // $_posts = new WP_Query('cat=70&posts_per_page=-1');
+        $_posts = new WP_Query('cat=94&posts_per_page=-1');
         $i=0;
         while ($_posts->have_posts()) : 
           $_posts->the_post();
