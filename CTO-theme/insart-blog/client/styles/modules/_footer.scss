@@ -1,0 +1,160 @@
+.footer {
+	padding: 40px 0;
+  background: linear-gradient(rgba($astronaut, 0.9), rgba($astronaut, 0.9) ),url(../images/photodune-369914-people-in-office-m.jpg) 50% 0 no-repeat fixed;
+
+
+	&__holder {
+		@media only screen and (min-width: $portrait) {
+			max-width: 410px;
+			margin: auto;
+		}
+	}
+
+	.form-controls {
+		margin: 40px auto auto auto;
+	}
+
+	.control {
+		height: 34px;
+		padding-bottom: 20px;
+		font-size: 16px;
+		line-height: 18px;
+		color: rgba($white, 0.7);
+		font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+		font-weight: 300;
+	}
+
+	::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	  color: rgba($white, 0.7);
+	}
+	::-moz-placeholder { /* Firefox 19+ */
+	  color: rgba($white, 0.7);
+	}
+	:-ms-input-placeholder { /* IE 10+ */
+	  color: rgba($white, 0.7);
+	}
+	:-moz-placeholder { /* Firefox 18- */
+	  color: rgba($white, 0.7);
+	}
+
+
+	p {
+		margin: 0 0 10px 0;
+	}
+
+	h2 {
+		color: $white;
+		line-height: 60px;
+	}
+
+	h4 {
+		margin-bottom: 16px;
+		line-height: 21px;
+		color: $white;
+		font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+		font-weight: 400;
+	}
+
+	&__contact {
+		margin-top: 80px;
+		color: $white;
+		font-size: 12px;
+		text-align: center;
+
+		address {
+			font-style: normal;
+			margin-bottom: 21px;
+			line-height: 21px;
+		}
+	}
+
+	&__btns {
+		margin-top: 80px;
+		
+		.btn {
+			display: inline-block;
+			font-size: 14px;
+
+			&:first-child {
+				margin-right: 20px;
+			}
+		}
+	}
+}
+
+.post-btns {
+	margin: 62px auto auto auto;
+	text-align: center;
+	max-width: 182px;
+
+	@media only screen and (min-width: $portrait) {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		max-width: 386px;
+	}
+
+	.btn {
+		box-shadow: none;
+		width: auto;
+		min-width: 0;
+		margin: 0;
+		background-color: $clear;
+
+		a {
+			display: block;
+			min-width: 45px;
+			height: 52px;
+			padding: 0 20px;
+			width: 182px;
+			line-height: 55px;
+			font-size: 14px;
+			text-align: center;
+			display: block;
+			text-transform: uppercase;
+			color: $white;
+			background-color: $outrageous-orange;
+			font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+			font-weight: 600;
+			box-shadow: 1.5px 1.5px 0px 1px #db4914;
+		}
+	
+		&:first-child {
+			margin: 0 0  30px;
+
+			@media only screen and (min-width: $portrait) {
+				margin-bottom: 0;
+			}
+		}
+
+		@media only screen and (min-width: $portrait) {
+			display: inline-block;
+		}
+	}
+}
+
+.copyright-holder {
+	padding: 50px 0;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 8px;
+	line-height: 15px;
+	color: $outrageous-orange;
+	font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+	font-weight: 300;
+
+		@media only screen and (min-width: $portrait) {
+			font-weight: 400;
+		}
+
+	span {
+		display: block;
+
+		@media only screen and (min-width: $portrait) {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+}

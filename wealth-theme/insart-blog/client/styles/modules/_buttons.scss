@@ -1,0 +1,181 @@
+button {
+	display: inline-block;
+	vertical-align: middle;
+	min-width: 45px;
+	height: 52px;
+	padding: 0 20px;
+	border: none;
+  line-height: 57px;
+  font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  background-color: transparent;
+  background-image: none;
+  background-repeat: repeat-x;
+  transition: all .25s linear 0s;
+
+  &:focus,
+  &:hover {
+    outline: none;
+  }
+
+  & > [class^="icon-"] {
+    margin-top: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+  }
+
+  & > .icon-left {
+    margin-right: 10px;
+  }
+
+  & > .icon-right {
+    margin-left: 10px;
+  }
+}
+
+.btn {
+  background-color: $outrageous-orange;
+  color: $white;
+  box-shadow: 1.5px 1.5px 0px 1px $tia-maria;
+
+  &:hover,
+  &:focus {
+    background-color: $flamingo;
+  }
+
+  &--L {
+    display: block;
+    min-width: 182px;
+    margin: auto;
+  }
+
+  &-primary {
+
+    &:focus,
+    &:hover {
+
+    }
+  }
+
+  &-secondary {
+
+    &:focus,
+    &:hover {
+
+    }
+  }
+
+  &-clear {
+    background-color: $clear;
+    box-shadow: none;
+    text-align: center;
+    padding: 0;
+    line-height: 1;
+    height: auto;
+
+    & > [class^="icon"] {
+      width: 25px;
+      height: 25px;
+    }
+
+    &:focus,
+    &:hover {
+      background-color: $clear;
+      color: $silver;
+    }
+  }
+
+  &-to-bottom {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    padding: 0;
+    line-height: 1;
+    background-color: $clear;
+    box-shadow: none;
+    color: $astronaut;
+
+    .icon {
+      width: 18px;
+      height: 18px;
+    }
+
+    &:focus,
+    &:hover {
+      background-color: $clear;
+      color: $outrageous-orange;
+    }
+  }
+}
+
+
+.hamburger {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  padding: 0;
+  background-color: $clear;
+  border: none;
+
+  &::before,
+  &::after,
+  span {
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2px;
+    background-color: $alto;
+    position: absolute;
+  }
+
+  span {
+    top: 9px;
+  }
+
+  &::after {
+    top: 18px;
+  }
+
+  &:hover,
+  &:focus {
+    outline: none;
+  }
+
+  .header__right & {
+    position: relative;
+    margin: 0 0 0 auto;
+    display: block;
+    z-index: 100;
+  }
+
+  .header__menu-open & {
+    span {
+      transform: translateX(-150px);
+      opacity: 0;
+    }
+    
+    &::after {
+      top: 9px;
+      transform: rotate(135deg);
+      background-color: $outrageous-orange;
+    }
+    
+    &::before {
+      top: 9px;
+      transform: rotate(-135deg);
+      background-color: $outrageous-orange;
+    }
+  }
+}
+

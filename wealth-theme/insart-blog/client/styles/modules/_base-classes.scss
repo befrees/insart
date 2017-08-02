@@ -1,0 +1,19 @@
+%ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+%clearfix {
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+.icon {
+	display: inline-block;
+	vertical-align: middle;
+	fill: currentColor;
+}

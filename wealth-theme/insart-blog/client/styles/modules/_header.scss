@@ -1,0 +1,145 @@
+.header {
+	display: flex;
+	justify-content: center;
+	height: 102px;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba($white, 0.95);
+  z-index: 100;
+  padding: 10px 40px 0 40px;
+  transition: max-height 0.25s linear 0s;
+
+  &::before {
+  	content: '';
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	height: 10px;
+  	background-color: $astronaut;
+  }
+
+  &-index-menu {
+  	.hamburger {
+  			@media only screen and (max-width: $portrait) {
+  				display: none;
+  			}
+  	}
+  }
+
+  .header__menu-open & {
+  	bottom: 0;
+  	max-height: 9999px;
+  	opacity: 1;
+  }
+
+	@media only screen and (min-width: $portrait) {
+		position: relative;
+		height: 99px;
+		margin: auto;
+		padding-top: 10px;
+	}
+
+	&__holder {
+		max-width: 1220px;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		margin: auto;
+		padding-top: 0;
+		height: 100%;
+		opacity: 0.95;
+
+		@media only screen and (min-width: $portrait) {
+			padding: 0 20px 0 20px;
+		}
+	}
+
+	&__left {
+		flex: 1 1 0%;
+		display: flex;
+    align-items: center;
+
+    .header__menu-open & {
+    	align-items: flex-start;
+    	padding-top: 36px;
+    }
+
+    @media only screen and (min-width: $portrait) {
+    	justify-content: center;
+    }
+	}
+
+	&__right {
+		display: flex;
+		flex: 1 1 0%;
+		align-items: center;
+		justify-content: flex-end;
+
+		.header__menu-open & {
+			align-items: flex-start;
+			padding-top: 28px;
+		}
+
+		@media only screen and (min-width: $portrait) {
+			display: none;
+		}
+	}
+
+	&__menu {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: 100%;
+		background-color: rgba($astronaut, 0.9);
+		z-index: 10;
+		max-height: 0;
+		overflow: hidden;
+		transition: max-height 0.25s linear 0s;
+
+
+		nav {
+			padding-top: 70px;
+		}
+
+		a {
+			display: block;
+			margin-bottom: 10px;
+			font-size: 28px;
+			color: $white;
+			text-align: center;
+		}
+
+		.header__menu-open & {
+			max-height: 100vh;
+		}
+	}
+
+	.btn-clear {
+		display: block;
+		margin: 50px auto 0;
+
+		.header__menu-open & {
+			position: absolute;
+			bottom: 40px;
+	    left: 50%;
+	    transform: translateX(-50%);
+	  }
+	}
+}
+
+.logo {
+	display: block;
+	width: 20px;
+  height: 20px;
+
+
+
+  img {
+  	max-width: 100%;
+    max-height: 100%;
+  }
+}

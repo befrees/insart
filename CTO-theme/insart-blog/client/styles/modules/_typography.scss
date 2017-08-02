@@ -1,0 +1,115 @@
+* {
+	box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Gothampro";
+  src: url(../../client/fonts/GothamPro.woff);
+}
+
+@font-face {
+  font-family: "GothamproLight";
+  src: url(../../client/fonts/GothamPro-Light.woff);
+}
+
+@font-face {
+  font-family: "GothamproMedium";
+  src: url(../../client/fonts/GothamPro-Medium.woff);
+}
+
+html, body {
+	height: 100%;
+  font-family: "Montserrat" , Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: $tundora;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  color: $astronaut;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+
+  @media only screen and (min-width: $portrait) {
+    font-size: 48px;
+    line-height: 60px;
+  }
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 16px;
+  color: $outrageous-orange;
+  text-align: left;
+}
+
+h6 {
+  font-size: 14px;
+  color: $outrageous-orange;
+  font-weight: 300;
+}
+
+
+a {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  min-width: auto;
+  border: none;
+  text-decoration: none;
+  color: $outrageous-orange;
+
+  &:focus,
+  &:hover {
+    color: $flamingo;
+  }
+
+  &.clear-link {
+    color: $white;
+
+    &:hover,
+    &:focus {
+      color: $white;
+    }
+  }
+
+
+  &--clear {
+    background-size: 100% 100%;
+
+    &:focus,
+    &:hover {
+      transition-duration: 0;
+      background-size: 0 100%;
+    }
+  }
+}
+
+.icon {
+  margin-top: -4px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
