@@ -1781,7 +1781,7 @@ blockquote span:first-child {
 
 .post__content div.social-sharing.ss-social-sharing,
 .post__content div.social-sharing.ss-social-sharing a {
-    display: block !important;
+    // display: block !important;
 }
 
 .post__content h5 {
@@ -1816,18 +1816,23 @@ blockquote span:first-child {
     -ms-flex: 100 100 100%;
     flex: 100 100 100%;
     /*color: #ff671b;*/
-    color: #140b8a;
+    /*color: #140b8a;*/
+    color: #000;
     text-align: center;
     margin-bottom: 7px;
+    font-size: 15px;
 }
 
 .post__content div.social-sharing a {
     display: block !important;
     padding-right: 5px;
-    border-right: 1px solid #140b8a;
+    /*border-right: 1px solid #140b8a;*/
     line-height: 10px;
-    margin-right: 5px;
-    text-indent: 0;
+    margin: 5px 4px;
+    /* text-indent: 0;*/
+    height: 40px;
+    width: 40px;
+
 }
 
 .post__content div.social-sharing a.button-twitter,
@@ -1856,7 +1861,10 @@ blockquote span:first-child {
     -ms-flex-order: 2;
     order: 2;
 }
-
+.post__content div.social-sharing a.ss-button-facebook {background: url(../icons/ic-fb.png) 0 0 no-repeat;}
+.post__content div.social-sharing a.ss-button-twitter {background: url(../icons/ic-tw.png) 0 0 no-repeat;}
+.post__content div.social-sharing a.ss-button-googleplus {background: url(../icons/ic-gp.png) 0 0 no-repeat;}
+.post__content div.social-sharing a.ss-button-linkedin {background: url(../icons/ic-in.png) 0 0 no-repeat;}
 .sidebar--left {
     display: none;
     padding-top: 70px;

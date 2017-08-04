@@ -60,7 +60,7 @@ get_header('index'); ?>
   </main>      
 <script>
   jQuery(function($){
-    $('a[class*=button-]').attr('class', '');
+    // $('a[class*=button-]').attr('class', '');
   })
 </script>
 <?php get_footer(); ?>
