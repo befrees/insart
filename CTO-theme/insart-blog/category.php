@@ -53,7 +53,7 @@ $cat_cto = 70;
               <img src="<?php echo wp_get_attachment_image_url($img['id'], 'img_80_80') ?>" alt="" class="circle-img expert-img">
             <?php else: ?>
               <div class="post__image">
-              <?php the_post_thumbnail( array(800, 600)) ?>
+              <a href="<?php echo get_permalink(); ?>"><?php the_post_thumbnail( array(800, 600)) ?></a>
             </div>
               <?php endif; ?>
               <br>

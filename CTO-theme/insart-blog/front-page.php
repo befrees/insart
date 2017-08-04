@@ -31,7 +31,7 @@ get_header('front'); ?>
               </p>
             </header>
             <div class="post__image">
-              <?php the_post_thumbnail( array(800, 600)) ?>
+              <a href="<?php echo get_permalink(); ?>"><?php the_post_thumbnail( array(800, 600)) ?></a>
             </div>
             <div class="post__content">
               
