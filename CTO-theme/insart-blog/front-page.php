@@ -13,7 +13,7 @@ get_header('front'); ?>
         <?php 
         $p = $_GET['p'] ? $_GET['p'] : 0;
         $offset = $_GET['offset'] ? $_GET['offset'] : 0;
-        $per_page = isset($_GET['per_page']) ? $_GET['per_page'] : 2;
+        $per_page = isset($_GET['per_page']) ? $_GET['per_page'] : 6;
         $cat_ID = isset($_GET['c']) ? $_GET['c'] : 2 ;
         // echo $per_page;
         $_posts = new WP_Query('cat='.$cat_ID.'&posts_per_page='.$per_page.'&offset='.$offset); 
