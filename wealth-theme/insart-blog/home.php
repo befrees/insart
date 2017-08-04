@@ -44,7 +44,7 @@ get_header(); ?>
         <?php 
         $p = $_GET['p'] ? $_GET['p'] : 0;
         $offset = $_GET['offset'] ? $_GET['offset'] : 0;
-        $per_page = isset($_GET['per_page']) ? $_GET['per_page'] : 2;
+        $per_page = isset($_GET['per_page']) ? $_GET['per_page'] : 6;
         $cat_ID = isset($_GET['c']) ? $_GET['c'] : 2 ;
         // echo $cat_ID;
         // echo $per_page;
