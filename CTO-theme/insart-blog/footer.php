@@ -25,7 +25,7 @@
             ));?>
             <?php if (have_posts()) : ?>
             <?php while (have_posts()) : the_post(); ?>
-              <?php the_content(); ?>
+              <?php echo str_replace("\n", "<br>", get_the_content()); ?>
                <p>
                  <a href="mailto:<?php echo get_post_meta($post->ID, "main-email", $single = true); ?>"><?php echo get_post_meta($post->ID, "main-email", $single = true); ?></a>
                </p>
