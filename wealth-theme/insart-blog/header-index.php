@@ -66,11 +66,15 @@
           </button>
           <div class="header__menu">
             <nav>
-              <a href="/<?php //echo get_category_link(2) ?>" data-number="block-1" class="click-true" onclick="javascript: return true">Home</a>
-              <a href="<?php echo get_permalink(2) ?>" data-number="block-2">Our Experts</a>
-              <a href="<?php echo get_category_link(5) ?>" data-number="block-3">Featured Articles</a>
-              <a href="<?php echo get_permalink(129) ?>" data-number="block-4"> About Us</a>
-              <a href="<?php echo get_permalink(134) ?>" data-number="block-5">Contacts</a>
+              <ul>
+              <?php if($nav =  wp_get_nav_menu_items( 'top-cats' )): ?>
+                <?php foreach($nav as $k => $li): ?>
+                <li><a href="<?= $li->object == 'category' ? '/?c='. $li->object_id : '/' ?>" class="ajax-cat-link <?= $k===0 ? 'active' : '' ?>" rel="nofollow"><?= $li->title ?></a></li>
+                <?php endforeach; ?>
+            <?php endif; ?>
+                <li><a href="<?php echo get_permalink(129) ?>" data-number="block-4"> About Us</a></li>
+                <li><a href="<?php echo get_permalink(134) ?>" data-number="block-5"  rel="nofollow">Contacts</a></li>
+              </ul>
             </nav>
             <button class="btn btn-clear">
               <svg class="icon">
