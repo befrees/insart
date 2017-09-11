@@ -162,6 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	/// ajax menu
 	$('body').on('click', '.ajax-cat-link', function(e){
+		if(!$('body').hasClass('home')) return true;
 		e.preventDefault();
 		$('.ajax-cat-link').removeClass('active');
 		$(this).addClass('active');
