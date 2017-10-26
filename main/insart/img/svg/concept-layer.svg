@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1192.43" height="293" viewBox="0 0 1192.43 293">
+    <defs>
+        <clipPath id="920c6079-e22d-4031-b54e-6a399680ac8e" transform="translate(-0.87 -7)">
+            <rect x="1053" y="28" width="8" height="45" style="fill:none" />
+        </clipPath>
+        <clipPath id="aa22a150-ccca-43b0-bd7a-cd291526a16e" transform="translate(-0.87 -7)">
+            <rect x="229" width="216" height="176" style="fill:none" />
+        </clipPath>
+        <clipPath id="36346ad6-28e7-4b74-b0e8-7f6537a71d2b" transform="translate(-0.87 -7)">
+            <rect x="132" width="9" height="26" style="fill:none" />
+        </clipPath>
+        <clipPath id="1e26b2a9-b680-43b7-8c02-cbb61ab2448c" transform="translate(-0.87 -7)">
+            <rect x="921" y="70" width="273" height="94" style="fill:none" />
+        </clipPath>
+        <clipPath id="98e33984-a0f4-425d-8c36-844ba087b457" transform="translate(-0.87 -7)">
+            <rect x="614" y="70" width="275" height="171" style="fill:none" />
+        </clipPath>
+        <clipPath id="fd3e2e9d-8d1b-432f-adf6-73a3288f13f6" transform="translate(-0.87 -7)">
+            <rect x="614" y="70" width="274" height="94" style="fill:none" />
+        </clipPath>
+        <clipPath id="d95dbdfc-bc73-4dcc-a069-ee73ba6360dc" transform="translate(-0.87 -7)">
+            <rect x="306" y="70" width="275" height="171" style="fill:none" />
+        </clipPath>
+        <clipPath id="d11b9d3d-6562-41b0-862c-0f309b0f5a42" transform="translate(-0.87 -7)">
+            <rect y="118" width="273" height="94" style="fill:none" />
+        </clipPath>
+        <clipPath id="db65b8d7-a0fe-4b16-aafe-b8081a159ca8" transform="translate(-0.87 -7)">
+            <rect x="135" y="118" width="66" height="39" style="fill:none" />
+        </clipPath>
+        <clipPath id="05d7b381-154f-4c60-a39d-9ae451c96809" transform="translate(-0.87 -7)">
+            <rect x="72" y="118" width="66" height="39" style="fill:none" />
+        </clipPath>
+        <clipPath id="3fc2569a-1481-4e04-a34d-7f7bb0809283" transform="translate(-0.87 -7)">
+            <rect y="23" width="273" height="93" style="fill:none" />
+        </clipPath>
+    </defs>
+    <g id="d260df79-ea21-4360-b112-10a136acd455" class="svg-cc" data-name="Слой 2">
+        <g id="834ae38d-ec61-45bd-9f97-f8d9569f57d6" data-name="Слой 1">
+            <g id="cc-4">
+                <g style="opacity:0.5;isolation:isolate" id="icc-1">
+                    <g style="clip-path:url(#920c6079-e22d-4031-b54e-6a399680ac8e)">
+                        <g style="clip-path:url(#920c6079-e22d-4031-b54e-6a399680ac8e)">
+                            <circle cx="1056.63" cy="24.5" r="2.5" style="fill:none;stroke:#d9d9d9;stroke-miterlimit:10" />
+                            <line x1="1056.63" y1="64.5" x2="1056.63" y2="27.5" style="fill:none;stroke:#d9d9d9;stroke-linecap:square;stroke-miterlimit:10" />
+                        </g>
+                    </g>
+                </g>
+                <g style="opacity:0.5;isolation:isolate" id="icc-2">
+                    <g style="clip-path:url(#1e26b2a9-b680-43b7-8c02-cbb61ab2448c)">
+                        <g style="clip-path:url(#1e26b2a9-b680-43b7-8c02-cbb61ab2448c)">
+                            <line x1="1056.71" y1="64.79" x2="1056.71" y2="67.24" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="1056.71" y1="73.37" x2="1056.71" y2="75.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="921.5" y1="155.14" x2="923.58" y2="153.91" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="927.87" y1="151.46" x2="1052.42" y2="79.5" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                            <line x1="1054.63" y1="78.27" x2="1056.71" y2="77.05" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="1056.71" y1="77.05" x2="1058.8" y2="78.27" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="1063.09" y1="80.73" x2="1187.76" y2="152.69" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                            <line x1="1189.84" y1="153.91" x2="1191.93" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        </g>
+                    </g>
+                </g>
+                <line x1="921.5" y1="142.88" x2="1056.71" y2="220.97" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="921.5" y1="155.14" x2="1056.71" y2="233.23" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="1056.71" y1="64.79" x2="1191.93" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="1056.71" y1="220.97" x2="1191.93" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="1056.71" y1="233.23" x2="1191.93" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="921.5" y1="142.88" x2="1056.71" y2="64.79" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="1191.93" y1="142.88" x2="1191.93" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="921.5" y1="142.88" x2="921.5" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                <line x1="1056.71" y1="220.97" x2="1056.71" y2="233.22" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            </g>
+            <g id="cc-3">
+                <g style="opacity:0.800000011920929;isolation:isolate">
+                    <g style="clip-path:url(#98e33984-a0f4-425d-8c36-844ba087b457)">
+                        <g style="clip-path:url(#98e33984-a0f4-425d-8c36-844ba087b457)">
+                            <g style="opacity:0.5;isolation:isolate">
+                                <g style="clip-path:url(#fd3e2e9d-8d1b-432f-adf6-73a3288f13f6)">
+                                    <g style="clip-path:url(#fd3e2e9d-8d1b-432f-adf6-73a3288f13f6)">
+                                        <line x1="749.51" y1="64.79" x2="749.51" y2="67.24" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                        <line x1="749.51" y1="73.37" x2="749.51" y2="75.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                        <line x1="614.29" y1="155.14" x2="616.38" y2="153.91" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                        <line x1="620.67" y1="151.46" x2="745.22" y2="79.5" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                                        <line x1="747.42" y1="78.27" x2="749.51" y2="77.05" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                        <line x1="749.51" y1="77.05" x2="751.59" y2="78.27" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                        <line x1="755.88" y1="80.73" x2="880.43" y2="152.69" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                                        <line x1="882.64" y1="153.91" x2="884.72" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                                    </g>
+                                </g>
+                            </g>
+                            <line x1="614.29" y1="142.88" x2="749.51" y2="220.97" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="614.29" y1="155.14" x2="749.51" y2="233.23" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="749.51" y1="64.79" x2="884.72" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="749.51" y1="220.97" x2="884.72" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="749.51" y1="233.23" x2="884.72" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="614.29" y1="142.88" x2="749.51" y2="64.79" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="884.72" y1="142.88" x2="884.72" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="614.29" y1="142.88" x2="614.29" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                            <line x1="749.51" y1="220.97" x2="749.51" y2="233.22" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <line x1="749.63" y1="232.5" x2="749.63" y2="292.5" style="fill:none;stroke:#d9d9d9;stroke-linecap:square;stroke-miterlimit:10" />
+            <line x1="442.63" y1="232.5" x2="442.63" y2="292.5" style="fill:none;stroke:#d9d9d9;stroke-linecap:square;stroke-miterlimit:10" />
+            <g style="opacity:0.5;isolation:isolate" id="cc-2">
+                <g style="clip-path:url(#aa22a150-ccca-43b0-bd7a-cd291526a16e)">
+                    <g style="clip-path:url(#aa22a150-ccca-43b0-bd7a-cd291526a16e)">
+                        <line x1="440.63" y1="45.5" x2="440.63" y2="0.5" style="fill:none;stroke:#4b4b4b;stroke-linecap:square;stroke-miterlimit:10" />
+                        <line x1="440.63" y1="45.5" x2="230.13" y2="166.82" style="fill:none;stroke:#4b4b4b;stroke-linecap:square;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <g style="opacity:0.5;isolation:isolate">
+                <g style="clip-path:url(#36346ad6-28e7-4b74-b0e8-7f6537a71d2b)">
+                    <g style="clip-path:url(#36346ad6-28e7-4b74-b0e8-7f6537a71d2b)">
+                        <line x1="135.63" y1="17.5" x2="135.63" y2="0.5" style="fill:none;stroke:#4b4b4b;stroke-linecap:square;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <line x1="270.93" y1="95.19" x2="330.38" y2="129.39" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="270.93" y1="107.33" x2="319.72" y2="135.52" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="270.93" y1="190.56" x2="330.38" y2="156.24" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="270.93" y1="202.82" x2="330.38" y2="168.5" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="577.52" y1="142.88" x2="614.29" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="577.52" y1="155.14" x2="614.29" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="884.72" y1="142.88" x2="921.5" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="884.72" y1="155.14" x2="921.5" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <line x1="330.38" y1="156.24" x2="330.38" y2="168.5" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;opacity:0.5" />
+            <g style="opacity:0.6000000238418579;isolation:isolate">
+                <g style="clip-path:url(#d95dbdfc-bc73-4dcc-a069-ee73ba6360dc)">
+                    <g style="clip-path:url(#d95dbdfc-bc73-4dcc-a069-ee73ba6360dc)">
+                        <line x1="442.3" y1="64.79" x2="442.3" y2="67.24" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="73.37" x2="442.3" y2="75.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="307.09" y1="155.14" x2="309.17" y2="153.91" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="313.34" y1="151.46" x2="438.01" y2="79.5" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="440.1" y1="78.27" x2="442.3" y2="77.05" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="77.05" x2="444.39" y2="78.27" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="448.68" y1="80.73" x2="573.23" y2="152.69" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="575.43" y1="153.91" x2="577.52" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="307.09" y1="142.88" x2="442.3" y2="220.97" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="307.09" y1="155.14" x2="442.3" y2="233.23" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="64.79" x2="577.52" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="220.97" x2="577.52" y2="142.88" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="233.23" x2="577.52" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="307.09" y1="142.88" x2="442.3" y2="64.79" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="577.52" y1="142.88" x2="577.52" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="307.09" y1="142.88" x2="307.09" y2="155.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="442.3" y1="220.97" x2="442.3" y2="233.22" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <g style="opacity:0.5;isolation:isolate" id="">
+                <g style="clip-path:url(#d11b9d3d-6562-41b0-862c-0f309b0f5a42)">
+                    <g style="clip-path:url(#d11b9d3d-6562-41b0-862c-0f309b0f5a42)">
+                        <line x1="135.71" y1="112.48" x2="135.71" y2="114.93" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="135.71" y1="121.06" x2="135.71" y2="123.51" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="0.5" y1="202.82" x2="2.71" y2="201.6" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="6.87" y1="199.15" x2="131.55" y2="127.19" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="133.63" y1="125.96" x2="135.71" y2="124.73" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="135.71" y1="124.73" x2="137.92" y2="125.96" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="142.09" y1="128.41" x2="266.76" y2="200.37" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="268.84" y1="201.6" x2="270.93" y2="202.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <line x1="0.5" y1="190.56" x2="135.71" y2="268.65" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="0.5" y1="202.82" x2="135.71" y2="280.91" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="198.97" y1="149.01" x2="270.93" y2="190.56" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <g style="opacity:0.5;isolation:isolate">
+                <g style="clip-path:url(#db65b8d7-a0fe-4b16-aafe-b8081a159ca8)">
+                    <g style="clip-path:url(#db65b8d7-a0fe-4b16-aafe-b8081a159ca8)">
+                        <line x1="135.71" y1="112.48" x2="137.92" y2="113.7" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="142.46" y1="116.4" x2="194.56" y2="146.43" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:4.270199775695801,4.270199775695801" />
+                        <line x1="196.76" y1="147.78" x2="198.97" y2="149.01" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <line x1="135.71" y1="268.65" x2="270.93" y2="190.56" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="135.71" y1="280.91" x2="270.93" y2="202.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <g style="opacity:0.5;isolation:isolate">
+                <g style="clip-path:url(#05d7b381-154f-4c60-a39d-9ae451c96809)">
+                    <g style="clip-path:url(#05d7b381-154f-4c60-a39d-9ae451c96809)">
+                        <line x1="72.58" y1="149.01" x2="74.67" y2="147.78" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="79.2" y1="145.08" x2="131.42" y2="115.05" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:4.270100116729736,4.270100116729736" />
+                        <line x1="133.63" y1="113.7" x2="135.71" y2="112.48" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <line x1="0.5" y1="190.56" x2="72.58" y2="149.01" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="270.93" y1="190.56" x2="270.93" y2="202.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="0.5" y1="190.56" x2="0.5" y2="202.82" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <g style="opacity:0.5;isolation:isolate">
+                <g style="clip-path:url(#3fc2569a-1481-4e04-a34d-7f7bb0809283)">
+                    <g style="clip-path:url(#3fc2569a-1481-4e04-a34d-7f7bb0809283)">
+                        <line x1="135.71" y1="17.1" x2="135.71" y2="19.56" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="135.71" y1="25.68" x2="135.71" y2="28.14" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="0.5" y1="107.33" x2="2.71" y2="106.1" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="6.87" y1="103.77" x2="131.55" y2="31.81" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="133.63" y1="30.59" x2="135.71" y2="29.36" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="135.71" y1="29.36" x2="137.92" y2="30.59" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                        <line x1="142.09" y1="33.04" x2="266.76" y2="105" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10;stroke-dasharray:3.9797000885009766,3.9797000885009766" />
+                        <line x1="268.84" y1="106.1" x2="270.93" y2="107.33" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+                    </g>
+                </g>
+            </g>
+            <line x1="0.5" y1="95.07" x2="135.71" y2="173.16" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="0.5" y1="107.33" x2="135.71" y2="185.42" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="135.71" y1="17.1" x2="270.93" y2="95.19" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="135.71" y1="173.16" x2="270.93" y2="95.07" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="135.71" y1="185.42" x2="270.93" y2="107.33" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="0.5" y1="95.07" x2="135.71" y2="17.1" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="270.93" y1="95.07" x2="270.93" y2="107.33" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="0.5" y1="95.07" x2="0.5" y2="107.33" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+            <line x1="135.71" y1="173.16" x2="135.71" y2="185.42" style="fill:none;stroke:#4b4b4b;stroke-miterlimit:10" />
+        </g>
+    </g>
+</svg>

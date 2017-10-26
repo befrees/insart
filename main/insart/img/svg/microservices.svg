@@ -1,0 +1,2630 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582.34" height="733.55" viewBox="0 0 582.34 733.55">
+    <defs>
+        <clipPath id="5f1ede63-35c9-4716-8a86-27316d25fd06">
+            <rect x="449.17" y="575.61" width="133" height="6" style="fill:none" />
+        </clipPath>
+        <clipPath id="37b56c7b-f5e3-4fc0-94e4-ecf856b8b84f">
+            <path d="M576.66,579.16a.6.6,0,1,0,0-1.2H450.73a.6.6,0,1,0,0,1.2Z" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="db5234d4-1ad2-4caa-a6aa-4cc7c4d96e6a">
+            <rect x="449.17" y="575.61" width="133" height="7" style="fill:none" />
+        </clipPath>
+        <clipPath id="3cdef407-f19a-49a9-9396-855ba3a41e2b">
+            <rect x="0.17" y="372.61" width="133" height="6" style="fill:none" />
+        </clipPath>
+        <clipPath id="2b4542d9-92bf-4945-a042-e45f225a846e">
+            <path d="M5.69,375.06a.6.6,0,1,0,0,1.2H131.62a.6.6,0,1,0,0-1.2Z" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2834d41d-91e3-4435-ae20-d667387c28f9">
+            <rect x="0.17" y="372.61" width="134" height="6" style="fill:none" />
+        </clipPath>
+        <clipPath id="ebd5ce98-1290-446d-aa69-fbfaab12e2c9">
+            <rect x="449.17" y="169.61" width="133" height="6" style="fill:none" />
+        </clipPath>
+        <clipPath id="0e40ad52-7b96-4a36-874e-c794c23206b2">
+            <path d="M576.66,173.16a.6.6,0,1,0,0-1.2H450.73a.6.6,0,1,0,0,1.2Z" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b619c532-3f52-401f-8c9b-99d1e191c9ab">
+            <rect x="449.17" y="168.61" width="133" height="8" style="fill:none" />
+        </clipPath>
+        <clipPath id="803a1e2b-a8f1-420c-8386-49764fb8d6c6">
+            <rect x="144.17" y="484.61" width="293" height="264" style="fill:none" />
+        </clipPath>
+        <clipPath id="d5b3cc82-522a-48cc-a694-adc502a711f8">
+            <path d="M167.25,651.73V677.2a.66.66,0,1,0,1.31,0V651.73a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d520b33d-7b8e-412b-afc1-a17560c92963">
+            <rect x="144.17" y="484.61" width="294" height="265" style="fill:none" />
+        </clipPath>
+        <clipPath id="4a9ee42a-6e26-45af-a5ea-f2c698758283">
+            <path d="M189.32,650.07v3.27a.66.66,0,1,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="05ba7682-6b0e-4359-8983-26c7fb4b80b9">
+            <path d="M145.19,639v25.48a.66.66,0,1,0,1.31,0V639a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="add29077-cc5c-4345-b5c7-4871f87bba3f">
+            <path d="M145.52,639.56l22.06,12.74a.66.66,0,0,0,.65-1.14l-22.06-12.74a.66.66,0,1,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="62e75318-c63d-4eb1-aa07-48578ecfb111">
+            <path d="M177.42,632.5l2.83,1.63a.66.66,0,0,0,.65-1.14l-2.83-1.63a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7e6e388f-97f7-4f10-9c77-fc6599afa6bb">
+            <path d="M145.52,665l22.06,12.74a.66.66,0,0,0,.65-1.14L146.17,663.9a.66.66,0,1,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5279c70c-5126-486d-b192-24f506fa91c0">
+            <path d="M168.24,652.29,180.9,645a.66.66,0,1,0-.66-1.14l-12.67,7.32a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="145b76bf-8cba-469f-aecb-bf378ca2a9b3">
+            <path d="M146.17,639.56l12.2-7a.66.66,0,1,0-.66-1.14l-12.2,7a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dfd7a068-171e-411c-ae76-1c9b0b2e354b">
+            <path d="M168.24,677.77l12.67-7.31a.66.66,0,1,0-.66-1.14l-12.67,7.31a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c4a84991-df48-42f4-ba4a-fe3a6478ac63">
+            <path d="M167.25,612.14v25.48a.66.66,0,0,0,1.31,0V612.14a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="89b831cc-c106-4fe5-8e13-0366892b63c5">
+            <path d="M189.32,599.4v14.35a.66.66,0,1,0,1.31,0V599.4a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d50c4adb-e244-46ef-b8f8-5532e52bc3c0">
+            <path d="M145.19,599.4v25.48a.66.66,0,1,0,1.31,0V599.4a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2d900d57-835f-4e7f-889b-fdd02193358e">
+            <path d="M145.52,600l22.06,12.74a.66.66,0,0,0,.65-1.14l-22.06-12.74a.65.65,0,1,0-.65,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="653734f6-b523-4a67-920d-4da8ebf79034">
+            <path d="M167.68,587.17l22,12.68a.66.66,0,1,0,.66-1.14l-22-12.68a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6ba3654a-8819-4522-a6df-2679ef7c23fb">
+            <path d="M145.52,625.44l22.06,12.74a.66.66,0,0,0,.65-1.14l-22.06-12.74a.66.66,0,1,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2bc2ac24-9bb9-4e99-8439-ff0b4893ecfc">
+            <path d="M168.23,612.71,190.3,600a.66.66,0,1,0-.66-1.13l-22.06,12.74a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="78c65756-64a7-4eff-afa2-6f67636078f1">
+            <path d="M146.17,600l22.17-12.8a.66.66,0,0,0-.66-1.14l-22.17,12.8a.66.66,0,1,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="778cf464-370d-40b6-aefd-71a6693d14b4">
+            <path d="M168.24,638.18l12.67-7.32a.66.66,0,0,0-.66-1.14L167.58,637a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1007a72c-01cb-4475-8198-9b1d8e3e40cb">
+            <path d="M202,671.49V697a.66.66,0,1,0,1.31,0V671.49a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="465e88f4-1749-4191-98e2-5df27310633c">
+            <path d="M224,658.76v25.48a.66.66,0,0,0,1.31,0V658.76a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f998715b-44a2-42fb-9512-417392cdafa9">
+            <path d="M179.92,658.76v25.48a.66.66,0,0,0,1.31,0V658.76a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bcea1c16-6f2c-4a35-a730-71eea31240c6">
+            <path d="M180.25,659.32l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,1,0-.65,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0290e135-8239-4115-a936-1e0e795dd7a5">
+            <path d="M212.15,652.27l12.23,7.06a.66.66,0,0,0,.66-1.14l-12.23-7.06a.66.66,0,1,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1925afa0-ba3f-48b0-bb7b-0c9af0de5a00">
+            <path d="M180.25,684.8l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="864d2d6c-bb1d-4090-946a-9465ed3c17f5">
+            <path d="M203,672.06,225,659.32a.66.66,0,1,0-.66-1.13l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="089d9304-764a-45df-a406-27b9fcad9050">
+            <path d="M180.91,659.32l12.22-7.06a.66.66,0,1,0-.66-1.14l-12.22,7.06a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0463055a-e0c6-4203-9d63-038e65e8e0c7">
+            <path d="M203,697.54,225,684.8a.66.66,0,1,0-.66-1.14L202.31,696.4a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5107688a-51d7-4cd5-b07a-c038165f735e">
+            <path d="M202,631.91v25.48a.66.66,0,0,0,1.31,0V631.91a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3c3f6028-9f72-4079-ad92-1c91026548e2">
+            <path d="M224,619.17v25.48a.66.66,0,1,0,1.31,0V619.17a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="359b3d8b-3c78-492b-a01d-ae2bc6df9382">
+            <path d="M179.92,619.17v25.48a.66.66,0,1,0,1.31,0V619.17a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="210da487-b068-413c-b7ce-0bd8329b4c2e">
+            <path d="M180.25,619.73l22.06,12.74a.66.66,0,1,0,.66-1.14L180.91,618.6a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4affb113-aa22-44e2-9bae-4f571e5221a3">
+            <path d="M202.31,607l22.06,12.74a.66.66,0,0,0,.66-1.14L203,605.86a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="51a859b5-e2cf-4970-9175-70aeda05b74c">
+            <path d="M180.25,645.21l22.06,12.74a.66.66,0,1,0,.66-1.13l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e2eb5ff1-dccf-42a0-8f0d-e37ca015c19f">
+            <path d="M203,632.47,225,619.73a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5e60f273-e665-4a9b-9838-cc36af4462c1">
+            <path d="M180.91,619.73,203,607a.66.66,0,1,0-.66-1.14L180.25,618.6a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5d83d406-4a2b-45f2-99e3-9966a9e0a3a9">
+            <path d="M203,657.95,225,645.21a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a2ba3f2f-4b11-4ec5-8156-eb4f269b3478">
+            <path d="M413.39,651.73V677.2a.66.66,0,1,0,1.31,0V651.73a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9a545951-1669-421e-a591-07c16e3fc466">
+            <path d="M435.46,639v25.48a.66.66,0,0,0,1.31,0V639a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8e44b541-ab44-458d-9efd-7146cfca0381">
+            <path d="M391.33,650.07v3.27a.66.66,0,0,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6a239591-1d75-492b-abfa-f1d39eea5677">
+            <path d="M401,645l12.67,7.32a.66.66,0,1,0,.66-1.14l-12.67-7.32A.66.66,0,1,0,401,645" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8a329540-2208-4b97-8c1d-5539cd471173">
+            <path d="M423.56,632.5l12.22,7.06a.66.66,0,0,0,.66-1.14l-12.23-7.06a.66.66,0,0,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="94201ace-b1da-4b21-b101-70f0465fb162">
+            <path d="M401,670.45l12.67,7.32a.66.66,0,0,0,.66-1.14l-12.67-7.32a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="cd49f3ad-f95c-4bc2-b620-5e5fc8f05ebb">
+            <path d="M414.38,652.29l22.06-12.74a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="71752a10-d283-4748-957c-285a36ed0966">
+            <path d="M401.7,634.13l2.83-1.63a.66.66,0,0,0-.65-1.14L401,633a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dafd4303-c1ed-4eec-9c67-2c7a677e18eb">
+            <path d="M414.38,677.77,436.44,665a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4edb5108-590a-4ba8-ae3c-b15a974f1a2d">
+            <path d="M413.39,612.14v25.48a.66.66,0,0,0,1.31,0V612.14a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5ca89be9-1963-4340-b079-962cb65dfb63">
+            <path d="M435.46,599.4v25.48a.66.66,0,0,0,1.31,0V599.4a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="76526139-823b-4c29-afce-f0d6bd7cead7">
+            <path d="M391.33,599.4v14.35a.66.66,0,1,0,1.31,0V599.4a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f02dcf62-9095-4d02-b307-89f3b64f56ca">
+            <path d="M391.66,600l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,1,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="cef1c26c-9282-4e79-abdb-5d3857508b3a">
+            <path d="M413.61,587.17,435.78,600a.66.66,0,0,0,.66-1.13L414.27,586a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="208cff1a-b216-4243-85df-b7c04147b900">
+            <path d="M401,630.87l12.67,7.32a.66.66,0,1,0,.66-1.14l-12.67-7.32a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e164fdbe-f44d-4262-924d-5ae44343df98">
+            <path d="M414.38,612.71,436.44,600a.66.66,0,1,0-.66-1.13l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e4f23e1b-8c76-406c-86af-b9ed98273eb3">
+            <path d="M392.31,599.85l22-12.68a.66.66,0,1,0-.66-1.14l-22,12.68a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b80b67f0-3223-4dd3-9b9d-6e0b9c4f67f2">
+            <path d="M414.38,638.18l22.06-12.74a.66.66,0,0,0-.66-1.14L413.72,637a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1fb416a5-ab4b-4b71-9b25-b846cf5bf032">
+            <path d="M378.66,671.49V697a.66.66,0,1,0,1.31,0V671.49a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6dbda721-da8a-4d0e-829a-5dfe95bcb589">
+            <path d="M400.72,658.76v25.48a.66.66,0,0,0,1.31,0V658.76a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="89d77c6b-52bb-460b-bb61-70b3421ba392">
+            <path d="M356.59,658.76v25.48a.66.66,0,0,0,1.31,0V658.76a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="625f0061-4935-45da-a487-4273ea6e876a">
+            <path d="M356.92,659.32,379,672.06a.66.66,0,0,0,.66-1.14l-22.06-12.74a.65.65,0,0,0-.65,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4989403d-db91-4ffb-8dd1-51689cb5d433">
+            <path d="M388.82,652.27,401,659.32a.66.66,0,0,0,.66-1.14l-12.22-7.06a.66.66,0,1,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="352e9972-86ea-4666-b127-88e920ca8620">
+            <path d="M356.92,684.8,379,697.54a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9c23e6bf-33f4-4c7d-992f-511700bdd9b0">
+            <path d="M379.64,672.06l22.06-12.74a.66.66,0,1,0-.66-1.13L379,670.93a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="adff4c8e-87cc-4c56-85ae-13da39e4435f">
+            <path d="M357.58,659.32l12.22-7.06a.66.66,0,1,0-.66-1.14l-12.22,7.06a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="90866835-791a-4e2d-9b4d-d1f82fc394f9">
+            <path d="M379.64,697.54,401.7,684.8a.66.66,0,1,0-.66-1.14L379,696.4a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3d0ffb3d-e2c8-45d4-adec-e0d82357e58e">
+            <path d="M378.66,631.91v25.48a.66.66,0,0,0,1.31,0V631.91a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f7c5500e-1aef-44ab-aa44-159d7ab9609c">
+            <path d="M400.72,619.17v25.48a.66.66,0,1,0,1.31,0V619.17a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3b902a39-7b16-4948-a5f3-a3a0e9ec5c84">
+            <path d="M356.59,619.17v25.48a.66.66,0,1,0,1.31,0V619.17a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7391361d-4c61-4c23-9aed-f53cf91d87ac">
+            <path d="M356.92,619.73,379,632.47a.66.66,0,1,0,.66-1.14L357.58,618.6a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e1553cdf-73a1-4b94-9f8a-bc84df02bf62">
+            <path d="M379,607,401,619.73a.66.66,0,1,0,.66-1.14l-22.06-12.74A.66.66,0,1,0,379,607" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="22870a96-9cbc-48f0-ad95-9d7b6a064a79">
+            <path d="M356.92,645.21,379,657.95a.66.66,0,1,0,.66-1.13l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2f1b9c7e-ee0d-4045-b43a-d2d438b49457">
+            <path d="M379.64,632.47l22.06-12.74a.66.66,0,1,0-.66-1.14L379,631.34a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5ae189e3-79ea-43ff-8a87-29be7e0429f7">
+            <path d="M357.58,619.73,379.64,607a.66.66,0,1,0-.66-1.14L356.92,618.6a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f8bb0ba4-5c84-47b3-9a69-ee12f98d2213">
+            <path d="M379.64,657.95l22.06-12.74a.66.66,0,0,0-.66-1.14L379,656.81a.66.66,0,1,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9bab27ba-ae79-4332-afee-30df988b0d29">
+            <path d="M167.68,550.76v25.48a.66.66,0,1,0,1.31,0V550.76a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4fef8c60-fe48-4a2c-8ab0-881c0ef96cc5">
+            <path d="M189.75,549.1v3.27a.66.66,0,1,0,1.31,0V549.1a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="00c57ce0-fc4b-48ed-aabf-59388d9edc01">
+            <path d="M145.61,538V563.5a.66.66,0,1,0,1.31,0V538a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a831751e-cb1b-4384-91ee-422f4db3e1e7">
+            <path d="M145.93,538.59,168,551.33a.66.66,0,1,0,.66-1.14l-22.07-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f977a132-3367-496f-aa3c-f2b16e1a43d2">
+            <path d="M177.85,531.53l2.83,1.63a.66.66,0,1,0,.66-1.14l-2.83-1.63a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a081f18c-58d3-4833-920b-961ab322d29a">
+            <path d="M145.93,564.07,168,576.81a.66.66,0,0,0,.66-1.14l-22.07-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0819c5db-481a-4385-90d5-d497706eadc2">
+            <path d="M168.66,551.33,181.33,544a.66.66,0,1,0-.66-1.14L168,550.19a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="01855588-da99-46f0-982e-123bf24509fb">
+            <path d="M146.59,538.59l12.2-7a.66.66,0,0,0-.66-1.14l-12.2,7a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="59879e4d-57b3-4b0d-a515-d9a7e8d7c7ea">
+            <path d="M168.66,576.81l12.67-7.32a.66.66,0,1,0-.66-1.14L168,575.68a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="de3dd20a-e426-4cb1-884f-86f1976faca5">
+            <path d="M167.68,511.16v25.48a.66.66,0,1,0,1.31,0V511.16a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f8d95af4-08f2-4279-a101-0312aff9357e">
+            <path d="M189.75,498.42v14.35a.66.66,0,1,0,1.31,0V498.42a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6136a862-a0c4-4548-bf44-2fa7bca12379">
+            <path d="M145.61,498.42V523.9a.66.66,0,0,0,1.31,0V498.42a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1f630209-d022-46f9-98c9-0caa5d0ea11c">
+            <path d="M145.93,499,168,511.73a.66.66,0,0,0,.66-1.14l-22.07-12.74a.66.66,0,0,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="72089432-8ecd-4928-8980-6070b24df8e3">
+            <path d="M168.11,486.19l22,12.68a.66.66,0,1,0,.66-1.13l-22-12.68a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d1e4abd2-1aa3-4d18-803e-6decab021cd5">
+            <path d="M145.93,524.47,168,537.21a.66.66,0,0,0,.66-1.14l-22.07-12.74a.66.66,0,0,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f2dc52f7-b6e3-4ef0-8a93-8e16964b2215">
+            <path d="M168.66,511.73,190.73,499a.66.66,0,1,0-.66-1.13L168,510.6a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="13a31307-5f40-4269-ba7b-27a182ceaf47">
+            <path d="M146.59,499l22.17-12.8a.66.66,0,0,0-.66-1.14l-22.17,12.8a.66.66,0,0,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e03499dc-19bc-46e8-9eeb-6d97d070fd7b">
+            <path d="M168.66,537.21l12.68-7.32a.66.66,0,0,0-.66-1.14L168,536.08a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b964a935-346c-47a8-8928-34f80c16a952">
+            <path d="M202.42,570.53V596a.66.66,0,0,0,1.31,0V570.53a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b75f1d57-9063-482a-a8af-6df19b52495a">
+            <path d="M224.49,557.79v25.48a.66.66,0,1,0,1.31,0V557.79a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="efa77866-aab8-4d57-9795-7c0fee76feaf">
+            <path d="M180.35,557.79v25.48a.66.66,0,1,0,1.31,0V557.79a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="89883c8c-7ed3-4a04-b8c6-beda20439457">
+            <path d="M180.68,558.36l22.07,12.74a.66.66,0,0,0,.66-1.14l-22.07-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b1bdf42a-2872-45f0-8aa4-7a81b0c1468a">
+            <path d="M212.59,551.3l12.23,7.06a.66.66,0,0,0,.66-1.14l-12.23-7.06a.66.66,0,1,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c17e8112-c54d-47ea-bb61-aba7df44bac3">
+            <path d="M180.68,583.84l22.07,12.74a.66.66,0,1,0,.66-1.14l-22.07-12.74a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4209a39e-0a69-4744-9ccb-825108abd5ee">
+            <path d="M203.4,571.1l22.07-12.74a.66.66,0,0,0-.66-1.14L202.75,570a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="30c71169-a952-4c8c-a042-9520276db30b">
+            <path d="M181.34,558.36l12.22-7.06a.66.66,0,1,0-.66-1.14l-12.22,7.06a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9342425d-9e8e-42ef-bae2-89d116de8a7d">
+            <path d="M203.4,596.59l22.07-12.74a.66.66,0,1,0-.66-1.14l-22.07,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f27210f8-71bc-49aa-bcc1-905976e31db8">
+            <path d="M202.42,530.94v25.48a.66.66,0,0,0,1.31,0V530.94a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c77dd7de-affd-4bd1-9a70-bdacf2c2e58b">
+            <path d="M224.49,518.19v25.48a.66.66,0,0,0,1.31,0V518.19a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6270f005-2145-4feb-b636-cabe758a6caf">
+            <path d="M180.35,518.19v25.48a.66.66,0,0,0,1.31,0V518.19a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9ad73486-c7b7-4a27-b5a1-ceffd4fcbb37">
+            <path d="M180.68,518.76l22.07,12.74a.66.66,0,0,0,.66-1.14l-22.07-12.74a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a448ca66-8c84-4841-ae9b-180107b67372">
+            <path d="M202.75,506l22.07,12.74a.66.66,0,1,0,.66-1.14L203.4,504.89a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="de449dec-fd7c-41ac-8491-b2d0caada523">
+            <path d="M180.68,544.25,202.75,557a.66.66,0,1,0,.66-1.14l-22.07-12.74a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bac53c47-7b30-4d78-b5ca-603d8d64077b">
+            <path d="M203.4,531.5l22.07-12.74a.66.66,0,1,0-.66-1.14l-22.07,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d1ee9b33-ccc1-4b8f-8ee7-9a81dd27a203">
+            <path d="M181.34,518.76,203.4,506a.66.66,0,1,0-.66-1.14l-22.07,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="256f7474-8616-4b2b-ade1-920916ae511f">
+            <path d="M203.4,557l22.07-12.74a.66.66,0,1,0-.66-1.14l-22.07,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c9bd5b5e-25f6-4766-a055-85b9912c38af">
+            <path d="M412.83,550.5v25.39a.66.66,0,1,0,1.31,0V550.5a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="68353e62-946d-46db-a55b-682de37fa1d5">
+            <path d="M434.82,537.8v25.39a.66.66,0,1,0,1.31,0V537.8a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7e3ea5eb-7d0a-46f8-bd0f-1d1684be9eb8">
+            <path d="M390.85,548.84v3.26a.66.66,0,0,0,1.31,0v-3.26a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0335a265-7087-4383-8ea2-36733bba6899">
+            <path d="M400.53,543.77l12.63,7.29a.66.66,0,0,0,.66-1.14l-12.63-7.29a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="26dd8670-8f67-4121-8cde-af3388383203">
+            <path d="M423,531.34l12.18,7a.66.66,0,1,0,.66-1.13l-12.18-7a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="50887b1a-cbaf-4892-9ea9-f5825c563ebf">
+            <path d="M400.53,569.16l12.63,7.29a.66.66,0,0,0,.66-1.14L401.19,568a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="eb4cbec4-e718-4cdd-8c04-6ce5b2e06e07">
+            <path d="M413.81,551.06l22-12.69a.66.66,0,1,0-.66-1.13l-22,12.69a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9f590b27-1106-44d1-b882-95782970daf4">
+            <path d="M401.19,533l2.82-1.63a.66.66,0,0,0-.65-1.14l-2.82,1.63a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fa5b01cd-b7d2-449f-844a-f5bab70bfd95">
+            <path d="M413.81,576.45l22-12.69a.66.66,0,1,0-.66-1.14l-22,12.69a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4d3acccc-6a1e-49c9-ae0b-60988b1bce65">
+            <path d="M412.83,511v25.39a.66.66,0,1,0,1.31,0V511a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bde3186c-298d-4d2d-b3f0-c66669eb81d8">
+            <path d="M434.82,498.35v25.39a.66.66,0,1,0,1.31,0V498.35a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f30b63a4-8f98-40c3-99c4-0bd4ab6a8720">
+            <path d="M390.85,498.35v14.29a.66.66,0,0,0,1.31,0V498.35a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a8b39159-ee22-43e3-bb0b-45c90714a7e3">
+            <path d="M391.17,498.92l22,12.69a.66.66,0,0,0,.66-1.14l-22-12.69a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d7e58e72-0da8-49b9-bd72-93546bd11b3b">
+            <path d="M413.06,486.17l22.09,12.75a.66.66,0,0,0,.66-1.14L413.71,485a.66.66,0,1,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8ae157cc-90f3-4ac0-959c-65a739b5445e">
+            <path d="M400.53,529.71,413.16,537a.66.66,0,0,0,.66-1.14l-12.63-7.29a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2b48b455-fc23-4c69-a4d1-e2668b474676">
+            <path d="M413.82,511.62l22-12.69a.66.66,0,0,0-.66-1.14l-22,12.69a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5c9120e5-9fab-42bb-9345-08cc4a2b9c73">
+            <path d="M391.83,498.8l21.88-12.63a.66.66,0,0,0-.65-1.14l-21.88,12.63a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="68f97499-ffcb-45be-8935-bead5e14f0eb">
+            <path d="M413.81,537l22-12.69a.66.66,0,1,0-.66-1.14l-22,12.69a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="09f240b1-f965-4438-9e24-b041b4ccc906">
+            <path d="M378.22,570.2v25.39a.66.66,0,1,0,1.31,0V570.2a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="655531b2-acff-4909-aaf0-8d19bf2bbf13">
+            <path d="M400.2,557.5v25.39a.66.66,0,1,0,1.31,0V557.5a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="26e7c9ac-1d3a-4673-9ecb-1e7335696c31">
+            <path d="M356.23,557.5v25.39a.66.66,0,1,0,1.31,0V557.5a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="afd2a02d-3e81-4834-a6b9-7bd4159d4367">
+            <path d="M356.56,558.07l22,12.69a.66.66,0,1,0,.66-1.14l-22-12.69a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="66b1e74b-ff96-4cfd-968d-7407328fb482">
+            <path d="M388.35,551l12.18,7a.66.66,0,0,0,.66-1.14l-12.18-7a.66.66,0,0,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e8740039-2961-43bc-91f6-7be814aaa3cd">
+            <path d="M356.56,583.46l22,12.69a.66.66,0,0,0,.66-1.14l-22-12.69a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="cbe02dba-dbd5-4d6d-998f-085286430904">
+            <path d="M379.2,570.76l22-12.69a.66.66,0,0,0-.66-1.14l-22,12.69a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5230271d-96c6-4d35-af8e-019faf411bd9">
+            <path d="M357.22,558.07l12.18-7a.66.66,0,0,0-.66-1.14l-12.18,7a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8a2e16ff-6670-43ea-88ca-d140ad06c478">
+            <path d="M379.2,596.15l22-12.69a.66.66,0,0,0-.66-1.14l-22,12.69a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="242cb1b2-9cb1-47ea-b81a-16c2e8f9cf2c">
+            <path d="M378.22,530.75v25.39a.66.66,0,1,0,1.31,0V530.75a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3c3dbc1d-14ff-4747-a55e-bb395b29a13e">
+            <path d="M400.2,518.05v25.39a.66.66,0,0,0,1.31,0V518.05a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="820abb8a-1f2a-4189-94b8-cc73d7afcd20">
+            <path d="M356.23,518.05v25.39a.66.66,0,1,0,1.31,0V518.05a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f11b153b-1244-45e0-bbc4-40e6773f7007">
+            <path d="M356.56,518.62l22,12.69a.66.66,0,0,0,.66-1.14l-22-12.69a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e6a30dd4-4e6d-4015-b24d-a686387f51b5">
+            <path d="M378.55,505.93l22,12.69a.66.66,0,0,0,.66-1.14l-22-12.69a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e2cc1e3c-8f74-44bb-b642-202e7ec8c973">
+            <path d="M356.56,544l22,12.69a.66.66,0,0,0,.66-1.14l-22-12.69a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0c3e3054-763f-4456-94a0-bc3ca7f62cbf">
+            <path d="M379.2,531.31l22-12.69a.66.66,0,0,0-.66-1.14l-22,12.69a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7f7c0580-4a24-4963-9af8-950b8a4b91c7">
+            <path d="M357.22,518.62l22-12.69a.66.66,0,1,0-.66-1.14l-22,12.69a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f40cd0b9-d539-4118-9e34-6003b9497943">
+            <path d="M379.2,556.7l22-12.69a.66.66,0,0,0-.66-1.14l-22,12.69a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e07038e0-d906-43bb-b3c6-a6bc925f2d1d">
+            <path d="M324.92,702.42V727.9a.66.66,0,1,0,1.31,0V702.42a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="acb4a874-62a7-4860-bf65-8d2da8ce18d4">
+            <path d="M347,689.68v25.48a.66.66,0,0,0,1.31,0V689.68a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e60d2ee1-1afd-4105-8620-f02a767ebf29">
+            <path d="M302.86,700.76V704a.66.66,0,1,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0b3dce98-aea2-4a7d-b5e7-1fa0abf4bed1">
+            <path d="M312.58,695.67,325.25,703a.66.66,0,1,0,.66-1.14l-12.68-7.32a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="95b4b060-ef1f-46bd-b4db-519e12fa1c65">
+            <path d="M335.09,683.19l12.23,7.06a.66.66,0,0,0,.65-1.14l-12.23-7.06a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2b3e65e2-26cd-4799-8b33-b4d2241241de">
+            <path d="M325.91,703,348,690.25a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="41341d36-77c5-4227-a168-d716402f7257">
+            <path d="M313.24,684.83l2.83-1.63a.66.66,0,0,0-.66-1.14l-2.83,1.63a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d8b29ca2-b14f-49c9-ba1b-ba84cbd774e0">
+            <path d="M255.45,702.42V727.9a.66.66,0,1,0,1.31,0V702.42a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ae8baa35-f773-4e7c-9792-9afea8ce634a">
+            <path d="M277.52,700.76V704a.66.66,0,1,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2e08d45f-8499-4f21-8de0-ef658fcb9ddb">
+            <path d="M233.39,689.68v25.48a.66.66,0,0,0,1.31,0V689.68a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3e60487e-f4ec-469f-add3-51390a1ab1fc">
+            <path d="M233.72,690.25,255.78,703a.66.66,0,0,0,.65-1.14l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f23fe2a3-b10c-4633-bc63-a9b31f5c866d">
+            <path d="M265.62,683.19l2.83,1.63a.66.66,0,0,0,.66-1.13l-2.83-1.63a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4cf20496-ea69-4905-84b2-4ec6243cc65f">
+            <path d="M256.44,703l12.67-7.31a.66.66,0,0,0-.65-1.14l-12.67,7.31a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8b97fac5-237e-4827-981e-25c5a1b8cf00">
+            <path d="M234.37,690.25l12.2-7a.66.66,0,0,0-.66-1.14l-12.2,7a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="354e0cd0-78cb-47bc-b7a6-061057bbfbf3">
+            <path d="M255.45,662.83v25.48a.66.66,0,1,0,1.31,0V662.83a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="14d7a71e-1b22-41a7-8bd8-de4c790863b4">
+            <path d="M277.52,650.09v14.35a.66.66,0,0,0,1.31,0V650.09a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a22d74f7-bd76-4a9f-b3b1-81c766634235">
+            <path d="M233.39,650.09v25.48a.66.66,0,0,0,1.31,0V650.09a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="81f34bb4-850b-4d5a-8d1a-afbec7475a98">
+            <path d="M233.72,650.66l22.06,12.74a.66.66,0,0,0,.65-1.14l-22.06-12.74a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9bf433f6-4d37-42e6-af4a-2d1570c568a8">
+            <path d="M255.89,637.86l22,12.68a.66.66,0,1,0,.65-1.14l-22-12.68a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5b9f5941-1240-4dd5-afd1-89726e2dc4d2">
+            <path d="M233.72,676.14l22.06,12.74a.66.66,0,0,0,.65-1.14L234.37,675a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8694d951-43fa-47f8-824b-ff1ff17a6eb7">
+            <path d="M256.44,663.4l22.06-12.74a.66.66,0,1,0-.65-1.14l-22.06,12.74a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="52d115f7-1140-4721-8a09-727fe850ec83">
+            <path d="M234.37,650.66l22.17-12.8a.66.66,0,0,0-.66-1.14l-22.17,12.8a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c16e860f-195b-45be-b585-88300b54953f">
+            <path d="M256.44,688.88l12.67-7.31a.66.66,0,0,0-.65-1.14l-12.67,7.32a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="be358316-15ef-44d9-b69b-5689fe7e698f">
+            <path d="M324.92,662.83v25.48a.66.66,0,1,0,1.31,0V662.83a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="17363eca-4dd9-454e-9028-cc796035941d">
+            <path d="M347,650.09v25.48a.66.66,0,0,0,1.31,0V650.09a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5d90bd9c-d973-403f-9f0a-bc8beefeabd8">
+            <path d="M302.86,650.09v14.35a.66.66,0,0,0,1.31,0V650.09a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5dc23f6f-284b-4c48-ae25-12435ebd3dc7">
+            <path d="M303.19,650.66l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a10a1fa7-7862-46af-bb7b-5906481e4647">
+            <path d="M325.14,637.86l22.17,12.8a.66.66,0,0,0,.65-1.14l-22.17-12.8a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="963abb08-6416-49b7-a0c4-8f37a276256d">
+            <path d="M312.58,681.56l12.67,7.31a.66.66,0,1,0,.66-1.14l-12.67-7.31a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="da04603a-7b2f-461a-8eec-bc5b8d322cf4">
+            <path d="M325.91,663.4,348,650.66a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bfc4d28c-8f58-4a3a-a1ee-5bb8e1172096">
+            <path d="M303.84,650.54l22-12.68a.66.66,0,1,0-.66-1.14l-22,12.68a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9f8c1073-bd31-4333-8f41-ef10a465e65e">
+            <path d="M325.91,688.88,348,676.14a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9da7940b-201d-48a8-8da7-5d9a3f8a884c">
+            <path d="M300.35,703,312.58,710a.66.66,0,0,0,.66-1.14L301,701.82a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7e0a7858-0781-452f-8e62-e38975528805">
+            <path d="M269.11,710,281.33,703a.66.66,0,0,0-.66-1.14l-12.22,7.06a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="efca1f0a-52a2-47d9-88a3-623238ca6462">
+            <path d="M290.19,682.6v25.48a.66.66,0,1,0,1.31,0V682.6a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="33a1b2a2-b8f6-4777-841e-953a89c0e316">
+            <path d="M312.25,669.86v25.48a.66.66,0,0,0,1.31,0V669.86a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3034ea2d-6090-4752-bc2c-b2fd3e7fd1d6">
+            <path d="M268.12,669.86v25.48a.66.66,0,0,0,1.31,0V669.86a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c231403d-65f8-4406-a72d-0cfb70aa9bed">
+            <path d="M268.45,670.43l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.65.65,0,1,0-.65,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="38ef0559-200b-41b1-ad3a-9f20d28f4422">
+            <path d="M290.52,657.69l22.06,12.74a.66.66,0,1,0,.66-1.13l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b53dabff-884a-4a71-9f8b-3156a5176485">
+            <path d="M268.45,695.91l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ddc1b4e8-f58a-4e1a-a9b1-b239e60afbce">
+            <path d="M291.17,683.17l22.06-12.74a.66.66,0,1,0-.66-1.13L290.52,682a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f5f47381-d5d2-43ea-884e-2307fdd0ea93">
+            <path d="M269.11,670.43l22.06-12.74a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f8bcbdc9-d888-461a-93af-778865600c5e">
+            <path d="M291.17,708.64l22.06-12.74a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c0e06da9-889e-41b8-bd7b-0b66738e18d9">
+            <path d="M324.92,601v25.48a.66.66,0,1,0,1.31,0V601a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b46aaeee-8b11-4825-a458-0bf332613ec7">
+            <path d="M347,588.29v25.48a.66.66,0,0,0,1.31,0V588.29a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9660abc4-c02b-4844-b5ff-f355c070c046">
+            <path d="M302.86,599.37v3.27a.66.66,0,1,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dab324d8-9d4b-4b09-bc3c-48d559dbe06e">
+            <path d="M312.58,594.28l12.68,7.32a.66.66,0,1,0,.66-1.13l-12.68-7.32a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b0581079-c2a5-45b6-a59d-d5927dce080c">
+            <path d="M335.09,581.8l12.23,7.06a.66.66,0,0,0,.65-1.14l-12.23-7.06a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a0ffb9c6-1b4f-41df-ab7e-8a6299c228ec">
+            <path d="M312.58,619.76l12.68,7.32a.66.66,0,1,0,.66-1.14l-12.68-7.32a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c341594e-1417-4fbd-98f6-da2a66cce338">
+            <path d="M325.91,601.6,348,588.86a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7094e920-a9ca-476e-b1c6-91cedc8fde4e">
+            <path d="M313.24,583.44l2.83-1.63a.66.66,0,1,0-.66-1.14l-2.83,1.63a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="255c3830-c326-473a-9f29-890605caac0c">
+            <path d="M325.91,627.08,348,614.34a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fbbc90f0-d8b1-4f52-9cd9-07effd2f9f19">
+            <path d="M255.45,601v25.48a.66.66,0,1,0,1.31,0V601a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0b2c183e-b6cf-4961-ac23-337d83b4ad67">
+            <path d="M277.52,599.37v3.27a.66.66,0,1,0,1.31,0v-3.27a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7800526f-6e70-431c-a6ea-308ffd0fba4b">
+            <path d="M233.39,588.29v25.48a.66.66,0,0,0,1.31,0V588.29a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="13e20960-3249-4e5c-86b2-888ea0eb8691">
+            <path d="M233.72,588.86l22.06,12.74a.65.65,0,1,0,.65-1.13l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8f3f453c-8a06-4f80-adbc-7dc9b9942d71">
+            <path d="M265.62,581.81l2.83,1.63a.66.66,0,0,0,.66-1.14l-2.83-1.63a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c90c41d4-0d82-4916-83ca-f728dc16c107">
+            <path d="M233.72,614.34l22.06,12.74a.66.66,0,0,0,.65-1.14L234.37,613.2a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c5ec9361-c37d-48ce-afea-b83d582b1c8d">
+            <path d="M256.44,601.6l12.67-7.31a.66.66,0,0,0-.65-1.14l-12.67,7.31a.65.65,0,1,0,.65,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3d915ad4-73dc-4e64-a82e-2a7bc02a9c15">
+            <path d="M234.37,588.86l12.2-7a.66.66,0,0,0-.66-1.14l-12.2,7a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d60b66b8-dcee-4473-918a-fb5f99ca5c03">
+            <path d="M256.44,627.08l12.67-7.31a.66.66,0,0,0-.65-1.14l-12.67,7.31a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6ac30dfc-dcf5-432f-94eb-4335f6f94dbd">
+            <path d="M255.45,561.44v25.48a.66.66,0,1,0,1.31,0V561.44a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="86081d80-032f-4cc4-a417-bb8b9a61d42d">
+            <path d="M277.52,548.7v14.35a.66.66,0,0,0,1.31,0V548.7a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5221c923-04fe-4dad-93b9-bf663fb6e1c6">
+            <path d="M233.39,548.7v25.48a.66.66,0,1,0,1.31,0V548.7a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9011ca3f-3767-4aa5-a577-4a369a8c17f5">
+            <path d="M233.72,549.27,255.78,562a.66.66,0,0,0,.65-1.14l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dd5838af-ddc2-4eb8-901a-2d5148865399">
+            <path d="M255.89,536.47l22,12.68a.66.66,0,1,0,.65-1.14l-22-12.68a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="08adb227-32d9-4535-b3cd-fb9d500a4d8f">
+            <path d="M233.72,574.75l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="05996df3-6ad9-4ecc-ae28-00e1ea815b39">
+            <path d="M256.44,562l22.06-12.74a.66.66,0,1,0-.65-1.14l-22.06,12.74a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c43fe0f1-3708-44ba-b266-d206da5a5d60">
+            <path d="M234.37,549.27l22.17-12.8a.66.66,0,0,0-.66-1.14l-22.17,12.8a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a5a99d59-319d-448d-9940-bb00d67ab4d3">
+            <path d="M256.44,587.49l12.67-7.32a.66.66,0,0,0-.66-1.14l-12.67,7.32a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4f1dc898-3e52-4bdd-8970-cc5379d07731">
+            <path d="M324.92,561.44v25.48a.66.66,0,1,0,1.31,0V561.44a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7bfdbf37-e5ae-4e96-b2cd-e74dcf4b8f61">
+            <path d="M347,548.7v25.48a.66.66,0,1,0,1.31,0V548.7a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="3b0715d2-9719-4af2-9922-ff85b4cbc05d">
+            <path d="M302.86,548.7v14.35a.66.66,0,0,0,1.31,0V548.7a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="788c9edb-6bc5-4d60-9477-8704fdcd9d8a">
+            <path d="M303.19,549.27,325.25,562a.66.66,0,1,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="16b12d88-7965-42b6-9d83-1eb5a7ebed8b">
+            <path d="M325.14,536.47l22.17,12.8a.66.66,0,0,0,.65-1.14l-22.17-12.8a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bae28f08-2e86-4733-ad78-0078e286498d">
+            <path d="M312.58,580.17l12.67,7.32a.66.66,0,1,0,.66-1.14L313.24,579a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f8fa0641-9d9b-4cdf-9bfe-3c63fd458821">
+            <path d="M325.91,562,348,549.27a.66.66,0,0,0-.65-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5eb4c16f-2317-4d59-a024-0fe8c100a676">
+            <path d="M303.84,549.15l22-12.68a.66.66,0,1,0-.66-1.14l-22,12.68a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5e08cf07-a431-4db3-ae80-a3bcf50ea472">
+            <path d="M325.91,587.49,348,574.75a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7d1790a0-5111-4391-b9e2-8240170bb1fa">
+            <path d="M290.19,620.8v25.48a.66.66,0,1,0,1.31,0V620.8a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f47cb61c-5ee3-4451-913d-cb46bb7c6531">
+            <path d="M312.25,608.06v25.48a.66.66,0,0,0,1.31,0V608.06a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bd23e218-e888-421a-bd20-a56be1548a0a">
+            <path d="M268.12,608.06v25.48a.66.66,0,0,0,1.31,0V608.06a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5eef347a-1794-4982-814b-81ea7f93fe0d">
+            <path d="M268.45,608.63l22.06,12.74a.66.66,0,1,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="37b7a4fb-242e-41c4-bf51-de2d41860c51">
+            <path d="M300.35,601.57l12.23,7.06a.66.66,0,0,0,.66-1.14L301,600.44a.66.66,0,0,0-.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d3a1f6a1-fb79-4185-934c-ca00931d3e13">
+            <path d="M268.45,634.11l22.06,12.74a.66.66,0,1,0,.66-1.14L269.11,633a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="98b498f7-0994-425a-843b-a164d86fb153">
+            <path d="M291.17,621.37l22.06-12.74a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="204fe52b-5efd-443e-a243-8b4fe19fa99f">
+            <path d="M269.11,608.63l12.22-7.06a.66.66,0,1,0-.66-1.14l-12.22,7.06a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9bae1580-3a09-4ce1-8910-9a3cf2365f77">
+            <path d="M291.17,646.84l22.06-12.74a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="695cc806-c90c-43f4-beec-e51aa9b0ca80">
+            <path d="M290.19,581.21v25.48a.66.66,0,1,0,1.31,0V581.21a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9d47377c-69c4-414e-8ac1-24d5745985e3">
+            <path d="M312.25,568.47v25.48a.66.66,0,1,0,1.31,0V568.47a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="75ad473e-4f8f-4daf-8617-42e3a3acd6c8">
+            <path d="M268.12,568.47v25.48a.66.66,0,1,0,1.31,0V568.47a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="771739e5-88d1-4b22-a6ac-84171304dfe5">
+            <path d="M268.45,569l22.06,12.74a.66.66,0,1,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fa9e6410-8545-4369-8b5d-30f50eeb1be9">
+            <path d="M290.52,556.3,312.58,569a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0ba5bd47-ee69-4fa8-86d3-725deb60be60">
+            <path d="M268.45,594.52l22.06,12.74a.66.66,0,0,0,.66-1.14l-22.06-12.74a.66.66,0,0,0-.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f6a8948d-2b24-4c98-ba1e-26642d32e34f">
+            <path d="M291.17,581.78,313.23,569a.66.66,0,0,0-.66-1.14l-22.06,12.74a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="97f17da1-9703-4b4e-9fda-fe8c4940b9a3">
+            <path d="M269.11,569l22.06-12.74a.66.66,0,1,0-.65-1.14l-22.06,12.74a.66.66,0,0,0,.65,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ff877c87-4995-4e7d-8f1a-afa3c49be72e">
+            <path d="M291.17,607.25l22.06-12.74a.66.66,0,1,0-.66-1.14l-22.06,12.74a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="99088c1d-54e8-45bf-bafd-f201543e2cdb">
+            <path d="M290.32,172.7v167a.66.66,0,0,0,1.31,0v-167a.66.66,0,1,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="62aef9d8-ee80-4db1-ace1-e564581cf720">
+            <path d="M435,89.18v167a.66.66,0,1,0,1.31,0v-167a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ff6dd135-bd57-4fc2-8160-9a8d1ad48101">
+            <path d="M145.66,89.18v167a.66.66,0,1,0,1.31,0v-167a.66.66,0,0,0-1.31,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="60054f8d-3259-41db-80e5-0bf3d6562187">
+            <path d="M146,89.74l144.66,83.52a.66.66,0,0,0,.66-1.13L146.64,88.61a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="988b1c01-f953-401d-93bf-2d524cb6d914">
+            <path d="M290.65,6.22,435.31,89.74a.66.66,0,1,0,.66-1.14L291.31,5.09a.66.66,0,1,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5bc3e1e9-d598-478f-a052-35fec22d2fb8">
+            <path d="M146,256.79l144.66,83.52a.66.66,0,0,0,.66-1.14L146.64,255.65a.66.66,0,0,0-.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d4ff1114-e977-4f2f-8780-d0e4f807e0c4">
+            <path d="M291.31,173.27,436,89.74a.66.66,0,1,0-.66-1.14L290.65,172.13a.66.66,0,1,0,.66,1.13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1fda6fcc-9df1-4e02-90dc-72aad700e76e">
+            <path d="M146.64,89.74,291.31,6.22a.66.66,0,0,0-.66-1.14L146,88.61a.66.66,0,0,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="526f9f03-23ec-4113-9a7e-526324484bc5">
+            <path d="M291.31,340.31,436,256.79a.66.66,0,1,0-.66-1.14L290.65,339.17a.66.66,0,1,0,.66,1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="27643af6-57d6-4812-8f99-10ff8e17f16e">
+            <polygon points="131.9 281.07 291.1 189.35 450.12 281.07 449.33 463.33 291.1 556.32 132.16 464.54 131.9 281.07" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ff3d5e3e-c473-4bf2-b63e-b1d345981a2b">
+            <polygon points="132.01 280.96 291.22 189.24 450.24 280.96 449.45 463.22 291.22 556.22 132.28 464.44 132.01 280.96" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="cad78ddb-5dfb-4470-979d-ac9db0a83978">
+            <polyline points="131.6 281.1 131.6 464.76 290.98 556.77 450.36 464.76 450.36 280.72 290.98 188.7 131.6 280.72 131.6 281.1 132.91 281.48 290.98 190.21 449.05 281.48 449.05 464 290.98 555.26 132.91 464 132.91 281.48" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bf0e27ba-f575-4605-bfc2-9ed12c06b494">
+            <path d="M379.48,489.5l-.66-.38V425.74l.31.18.09,0h0a.67.67,0,0,0,.24,0h0a.66.66,0,0,0,.33-.09l.33-.19v63.37l-.66.38m.33,1.32h0m-.57,0h0m0,0h0m0,0h0m0,0h0m.37,0,.08,0h0l.06,0-.15.06m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d7bf0477-1c81-41c0-ae2b-88a00cd90293">
+            <path d="M436,392.35h0m0,0h0m.2,65.84a.66.66,0,0,0-.86-1l-.33.19V394.06l1-.57a.66.66,0,0,0,.29-.34.61.61,0,0,0,0-.22h0a.66.66,0,0,0,0-.23.7.7,0,0,0-.08-.15.65.65,0,0,1,.13.39v64.89a.65.65,0,0,1-.13.39m-.16.16h0m0,0h0m0,0h0l0,0,0,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6dbec7e4-0bf4-4e1f-9b47-8a2d7c6b2b2b">
+            <polyline points="323.94 429.08 322.63 428.32 322.63 422.27 323.94 421.52 323.94 429.08" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a2f80a53-a022-404f-b317-aa8830b06b3c">
+            <path d="M346.55,406.83a.59.59,0,0,1,0-.21v.21m32.59,19.09-31.45-18.16,0,0h0a.65.65,0,0,0,.14-.41v-1l31.62,18.25-.33.19a.66.66,0,0,0,0,1.13m.09,0h0m.25,0a.67.67,0,0,1-.24,0,.66.66,0,0,0,.25,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a90fdd24-8705-46b5-82ec-ddaf99235f07">
+            <path d="M404.12,374.44a.66.66,0,0,1,.2-.11l-.2.11m32,18h0m.17.24,0-.09a.69.69,0,0,0-.12-.15l.08.09h0a.7.7,0,0,1,.08.15m-1.92.24-29.81-17.21,1.31-.76L436,392.35h0a.67.67,0,0,0-.32-.08.65.65,0,0,0-.33.09l-1,.57m2,0h0m0,.22a.65.65,0,0,0,0-.22.61.61,0,0,1,0,.22" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="12743ada-445a-4a52-a1fb-ccbf6e3acd28">
+            <path d="M346.55,471.72a.59.59,0,0,1,0-.21v.21m32.58,19.09-31.27-18.06v-1.51l31,17.88.66.38-.33.19a.66.66,0,0,0,0,1.13m.62,0,.06,0h0l-.06,0m0,0h0m-.26.05-.19,0h0a.64.64,0,0,0,.2,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9afcd67e-196b-4ab7-a2e5-cd2f35812370">
+            <path d="M379.48,426h0a.66.66,0,0,1-.25,0h0l-.09,0a.66.66,0,0,1,0-1.13l.33-.19,55.87-32.25a.65.65,0,0,1,.33-.09.67.67,0,0,1,.32.08h0l.11.08h0a.69.69,0,0,1,.12.15l0,.09a.66.66,0,0,1,0,.23h0a.65.65,0,0,1,0,.22.66.66,0,0,1-.29.34l-1,.57-54.88,31.69-.33.19a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d24206a8-c5f3-4858-ba7a-8f8b42991ff2">
+            <path d="M354.77,374.4l-.05,0,.05,0m-6.91,5.09V378l5.24-3,1.31.76-6.55,3.78" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="db20f9f9-93e3-4721-800e-8221f9d99e6c">
+            <path d="M379.48,490.91h0a.64.64,0,0,1-.2,0h0l-.11-.05a.66.66,0,0,1,0-1.12l.33-.19.66-.38L435,457.43l.33-.19a.66.66,0,0,1,.86,1h0a.65.65,0,0,1-.16.15h0l0,0h0l-56.18,32.43h0l-.06,0h0l-.08,0h0l-.16,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dd6f6dbf-6dd1-414e-be9a-62a8cb7f642a">
+            <path d="M202.55,489.5l-.66-.38V425.74l.33.19a.66.66,0,0,0,.33.09h0a.65.65,0,0,0,.25-.05h0l.08,0,.31-.18v63.37l-.66.38m.33,1.33h0m-.19.07.07,0,.11,0a.67.67,0,0,1-.18.07m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8d4fbe4b-ca32-4860-8cee-7df5d4849ede">
+            <path d="M259.08,420.58l0,0,0,0m-1,8.5v-7.57l1.31.76v6.05l-1.31.76m1,1h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="857c685e-ccd4-406d-bd46-3abeb7699d66">
+            <path d="M145.7,457.79V392.94a.69.69,0,0,0,0,.2.66.66,0,0,0,.29.34l1,.57v63.37l-.33-.19a.65.65,0,0,0-.33-.09.66.66,0,0,0-.66.64" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="988838be-2aca-42aa-a853-3992b5b57945">
+            <path d="M145.91,392.44l.12-.09h0l-.11.08m0,0h0m0,0h0m-.2.47a.66.66,0,0,1,0-.23.67.67,0,0,0,0,.23m0,0h0m0,0h0m57.11,33,.07,0h0l-.08,0m0,0h0m-.25.05a.66.66,0,0,1-.33-.09l-.33-.19L147,394.06l-1-.57a.66.66,0,0,1-.29-.34l0,.1a.66.66,0,0,0,.9.24l1-.57,54.88,31.69-.33.19a.66.66,0,0,0,.33,1.22h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8ed9779e-8050-4cc3-b0bd-c6d959fbed7b">
+            <polyline points="234.16 379.49 227.61 375.71 228.92 374.95 234.16 377.98 234.16 379.49" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="865d61a9-1c3e-49ae-9839-5e6c9e3e6036">
+            <path d="M202.21,490.81,146,458.38a.66.66,0,0,1,.33-1.22.65.65,0,0,1,.33.09l.33.19,54.88,31.69.66.38-.33.19a.66.66,0,0,0,0,1.13m.08,0h0m.47,0,.12-.05h0l-.11,0m-.21,0a.66.66,0,0,1-.25-.05.66.66,0,0,0,.25.05h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a457a273-d067-43d5-a7eb-5f3f2731c207">
+            <path d="M202.55,426h0a.66.66,0,0,1-.33-1.22l.33-.19,31.62-18.25v1a.67.67,0,0,0,0,.2h0a.66.66,0,0,0,.13.22l-31.13,18-.31.18h0l-.07,0h0a.65.65,0,0,1-.25.05" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="dbcf3cbf-d0ac-4516-a0a1-deedaef3b9ed">
+            <path d="M146.35,393.58a.66.66,0,0,1-.57-.33l0-.1a.69.69,0,0,1,0-.2v0h0a.67.67,0,0,1,0-.23.66.66,0,0,1,.16-.24h0l.11-.08h0l30.14-17.4,1.31.76-30.8,17.78a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bc53b6f0-e50f-4b7b-8d16-269d7f0d795a">
+            <path d="M202.55,490.91h0a.66.66,0,0,1-.25-.05h0l-.08,0a.66.66,0,0,1,0-1.13l.33-.19.66-.38,31-17.88v1.51l-31.27,18.06h0l-.12.05-.07,0h-.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2b1cb09d-ac71-4a3c-89b2-04b61a3536b8">
+            <path d="M202.55,388.67l-.66-.38V324.91l.33.19a.65.65,0,0,0,.33.09h0a.62.62,0,0,0,.25-.05h0l.08,0,.31-.18v63.37l-.66.38m-.31,1.33h0m0,0h0m0,0h0m0,0h0m0,0,0,0,0,0m0,0h0m0,0h0m0,0h0m0,0h0m.27,0,.17,0,.1-.05h0a.63.63,0,0,1-.27.09m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b6726e67-9535-4a1f-8969-8dd374b0f868">
+            <path d="M258.09,328.25v-7.43l.18.1.09.06,1,.6v5.9l-1.31.76m.95,1,.07,0-.07,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d7f3e43b-6d43-4580-8ee8-e7cfe72f9bff">
+            <path d="M259.31,320l-1.22-.71V293.23l1-.57a.65.65,0,0,0,.26-.86h0a.64.64,0,0,1,.07.3v27.6a.65.65,0,0,1-.09.32" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e5fbd524-c8f7-4a84-b965-c0898ff870ac">
+            <path d="M259.31,320l-.3-.17a.64.64,0,0,0-.33-.09.65.65,0,0,0-.51.25.65.65,0,0,1-.08-.32v-.38l1.22.71h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="79a69df0-e6fe-4e00-bfe7-c9cc3a2e8da7">
+            <path d="M145.7,357V292.12a.66.66,0,0,0,.09.3.67.67,0,0,0,.2.22h0l1,.57V356.6l-.33-.19a.66.66,0,0,0-1,.55" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="90f4da83-4618-46ff-8563-68666ec05a24">
+            <path d="M145.9,291.62l.13-.1h0l-.12.09m0,0h0m-.18.35,0-.08,0,.08m0,0h0m0,0h0m.28.65h0m0,0h0m56.81,32.49.07,0h0l-.08,0m0,0h0m-.25.05a.65.65,0,0,1-.33-.09L147,293.23l-1-.57h0a.66.66,0,0,0,.68,0l1-.57,54.88,31.69-.33.19a.66.66,0,0,0,.33,1.22h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="327128a4-3594-4410-86c5-28e73e54f315">
+            <path d="M202.26,258.95h0m-.09,0,.09,0-.08,0h0m55.32,33.06-55-31.74.33-.19a.66.66,0,0,0-.33-1.22h0a.66.66,0,0,1,.33.09l31.33,18.09v1.14a.66.66,0,1,0,1.31,0v-.38L259,291.43a.66.66,0,0,1,.29.36h0l0,0a.65.65,0,0,0-.57-.33.64.64,0,0,0-.33.09l-.92.53" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="20268253-3ca9-437b-b556-065b1be7a14f">
+            <path d="M202.79,390l.08,0h0l-.1.05m-.24,0a.63.63,0,0,1-.19,0h0l0,0h0l-24.74-14.28-1.31-.76L146,357.55a.66.66,0,0,1,.33-1.22.66.66,0,0,1,.33.09l.33.19,54.88,31.69.66.38-.33.19a.66.66,0,0,0,.33,1.22h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="31d45d19-70bb-42cc-8ec3-2e52f4168342">
+            <path d="M235.5,306.27l-1.31-.76,24.22-14a.64.64,0,0,1,.33-.09.65.65,0,0,1,.57.33l0,0a.65.65,0,0,1-.26.86l-1,.57-22.58,13" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2c8efb96-99ef-46e1-98ef-d1ba853f9eaf">
+            <path d="M234.49,306.85h0a.66.66,0,0,0-.33-1.22.66.66,0,0,0-.33.09h0l.34-.19,1.31.76-1,.57h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0201fcb6-8894-46e1-9942-db98db89d117">
+            <path d="M202.55,325.19h0a.66.66,0,0,1-.33-1.22l.33-.19,30.33-17.51,1.31.76-31,17.89-.31.18h0l-.07,0h0a.62.62,0,0,1-.25.05" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e70b0f07-48dc-4f9b-9939-45230685aab0">
+            <path d="M234.19,307l-1.31-.76,1-.55h0a.66.66,0,0,1,.33-.09.66.66,0,0,1,.33,1.22h0l-.3.18" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8d95ac6f-8470-47f9-bbb4-9c07ffb9a3c0">
+            <path d="M179.25,273.79l-1.31-.76,24.23-14h0l.08,0h0a.65.65,0,0,1,.23,0h0a.66.66,0,0,1,.33,1.22l-.33.19-23.26,13.47" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1e02b71f-13b1-4198-856e-e812dc175f8c">
+            <path d="M178.27,274.36a.66.66,0,0,0-.33-1.22.65.65,0,0,0-.33.09l.33-.19,1.31.76-1,.57" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ca354ad2-475b-414d-9093-1c98e8a7bba4">
+            <path d="M146.35,292.75a.66.66,0,0,1-.35-.1h0a.67.67,0,0,1-.2-.22.66.66,0,0,1-.09-.3.79.79,0,0,1,0-.12h0l0-.08a.65.65,0,0,1,.17-.27h0l.12-.09h0l30.6-17.73,1.31.76-30.28,17.54-1,.57a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="2452e497-8228-4af2-a5dc-e48a0dbe62d1">
+            <path d="M177.94,274.55l-1.31-.76,1-.57a.65.65,0,0,1,.33-.09.66.66,0,0,1,.33,1.22l-.33.19" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9a48de43-c9a7-4410-a70f-f4876d5dbf37">
+            <path d="M202.55,390.08h0a.66.66,0,0,1-.33-1.22l.33-.19.66-.38,31-17.88v1.51l-5.24,3-1.31.76L202.89,390h0l-.08,0-.17,0h-.07" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c80e8aee-24b6-4bae-b362-745cfae35b96">
+            <path d="M379.48,388.67l-.66-.38V324.91l.31.18.09,0h0a.65.65,0,0,0,.24,0h0a.65.65,0,0,0,.33-.09l.33-.19v63.37l-.66.38m-.3,1.34h0m.16.06-.16-.06.06,0h0l.1,0m0,0h0m.23,0a.66.66,0,0,0,.22-.08h0a.65.65,0,0,1-.23.08m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c5743b4a-6378-437a-a05b-7880fae9def3">
+            <path d="M436.22,291.72h0m0,65.63a.66.66,0,0,0-.54-1,.66.66,0,0,0-.33.09l-.33.19V293.23l1-.57a.65.65,0,0,0,.28-.33.63.63,0,0,0,0-.23h0a.63.63,0,0,0,0-.23.66.66,0,0,0-.07-.14.65.65,0,0,1,.11.37V357a.65.65,0,0,1-.12.38m0,0h0m-.2.18h0m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="08dd95c2-5862-4844-8896-d2fdc2314ec4">
+            <path d="M323.94,328.25l-1.31-.76v-5.92l1.31-.76v7.43m-1,1-.06,0,.06,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="12e889ed-0007-48d8-bed0-2582888a0b17">
+            <path d="M322.63,321.58h0l1.1-.63a.67.67,0,0,0,.21-.19v.08l-1.31.76" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ef534d6b-eda0-4831-b893-5d98a1175b94">
+            <path d="M322.63,320.06V292.11h0a.67.67,0,0,0,0,.18.65.65,0,0,0,.23.32h0l0,0,1,.57v26.08l-.79.45-.08,0-.45.26" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="aa9c47cf-750b-4c3c-9e6e-78a5ac5c83ee">
+            <path d="M323.94,320a.65.65,0,0,0-.79-.23l.79-.45V320" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fd0f1d33-c742-4e57-8a57-c3b9675aa8af">
+            <path d="M379.14,325.09,347.84,307l1.31-.76,30.33,17.51-.33.19a.66.66,0,0,0-.24.9.65.65,0,0,0,.23.23m.09,0h0m.25,0a.65.65,0,0,1-.24,0,.64.64,0,0,0,.25,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ba61df28-e6d4-44de-ac5e-e3f0cb02d639">
+            <path d="M347.84,307l-.32-.18a.66.66,0,0,0,.66-1.14l1,.56-1.31.76" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="eef351b8-7cd9-40c5-b5bf-0b0f932671a3">
+            <path d="M346.53,306.27,323,292.66l0,0a.66.66,0,0,0,.69,0l1-.57,23.24,13.42-1.31.76" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="58bc869b-202f-4480-9374-4d9cd5adb6e8">
+            <path d="M347.83,306.92a.65.65,0,0,1-.31-.08h0l-1-.57,1.31-.76.32.19h0a.66.66,0,0,1-.35,1.21" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ee98203c-15a2-478d-85dc-3e71fd7ee452">
+            <path d="M434.37,292.09,404,274.58l.26-.15.13-.08.91-.53L436,291.52a.65.65,0,0,1,.21.19h0a.66.66,0,0,1,.07.14l0-.09a.65.65,0,0,0-.57-.33.64.64,0,0,0-.33.09l-1,.57m2,0h0m0,.23a.64.64,0,0,0,0-.23.63.63,0,0,1,0,.23" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="80641261-5d54-44aa-815a-6b2410d05717">
+            <path d="M404.43,274.35a.65.65,0,0,0,.18-.2.66.66,0,0,0-.24-.9h0l1,.57-.91.53m-.4.23-.32-.19h0a.65.65,0,0,0,.33.09.65.65,0,0,0,.26-.05l-.26.15" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="5a051c8e-cf83-498e-951f-596d94922b58">
+            <path d="M402.72,273.82,379.48,260.4l.33-.19a.65.65,0,0,0,.24-.9.65.65,0,0,0-.22-.23l24.21,14-1.31.76m1.58.6.13-.08-.13.08" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="8d4810f2-65c9-41f9-b3fc-a023d393671a">
+            <path d="M404,274.48a.65.65,0,0,1-.33-.09h0l-1-.56,1.31-.76.31.18h0a.66.66,0,0,1,.24.9.65.65,0,0,1-.18.2l-.13.08a.65.65,0,0,1-.26.05" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9e30850b-688c-477a-b659-1fe849eb5157">
+            <path d="M379.14,390l-24.72-14.27-1.31-.76-5.24-3v-1.52l6.85,4,.05,0,24.06,13.89.66.38-.33.19a.66.66,0,0,0-.24.9.64.64,0,0,0,.22.23m.1.05h0m.24,0h-.14l-.1,0a.64.64,0,0,0,.23,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="0d1da091-394d-4097-af5e-ec501a619881">
+            <path d="M379.48,325.19h0a.64.64,0,0,1-.25,0h0l-.09,0a.65.65,0,0,1-.23-.23.66.66,0,0,1,.24-.9l.33-.19,55.87-32.25a.64.64,0,0,1,.33-.09.65.65,0,0,1,.57.33l0,.09a.63.63,0,0,1,0,.23h0a.64.64,0,0,1,0,.23.65.65,0,0,1-.28.33l-1,.57-54.88,31.69-.33.19a.65.65,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="83dca65f-7331-40f5-8c7d-f849c8d0c6dc">
+            <path d="M347.55,278.84a.66.66,0,0,0,.31-.56v-1.14l31.28-18.06h0l.09,0h0a.68.68,0,0,1,.24,0h0a.68.68,0,0,1,.24,0l.1.05a.65.65,0,0,1,.22.23.65.65,0,0,1-.24.9l-.33.19-31.93,18.43m-24.27,13.91a.66.66,0,0,1-.36-.11h0a.65.65,0,0,1-.17-.2.72.72,0,0,1-.06-.12.67.67,0,0,1,0-.18h0a.65.65,0,0,1,0-.26l0-.07h0l.05-.08h0a.66.66,0,0,1,.18-.15h0l23.58-13.61v.38a.65.65,0,0,0,.66.66.68.68,0,0,0,.31-.08l-23.9,13.8a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="eadae1b1-add1-452a-a87f-3a8aad56ebf2">
+            <path d="M379.48,390.08h0a.64.64,0,0,1-.23,0h0l-.06,0h0l0,0a.64.64,0,0,1-.22-.23.66.66,0,0,1,.24-.9l.33-.19.66-.38,24-13.84.2-.11L435,356.6l.33-.19a.66.66,0,0,1,.33-.09.66.66,0,0,1,.54,1h0a.64.64,0,0,1-.19.18h0l-30.14,17.4-1.31.76L379.82,390h0a.66.66,0,0,1-.22.08h-.1" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="b8d1285e-57af-4d4c-9ea1-3d8675173a03">
+            <path d="M291,539.84l-.66-.38V476.09l.32.18.06,0h0a.65.65,0,0,0,.26.06h0a.65.65,0,0,0,.26-.06h0l.06,0,.32-.19v63.37l-.66.38" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7f0fe8f0-7ebb-4094-9e66-fbb435f10d2c">
+            <path d="M347.55,442.71l0,0h0l0,0m0,0h0m0,0h0m.11.09h0m0,65.78a.66.66,0,0,0-.5-1.08.65.65,0,0,0-.33.09l-.33.19V444.41l1-.57,0,0h0a.66.66,0,0,0,.3-.53h0a.65.65,0,0,0-.14-.42h0l0,0a.65.65,0,0,1,.19.46v64.89a.66.66,0,0,1-.16.43m0,0h0m0,0h0m-.17.14h0l.09-.06-.1.07" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="cb98c2de-8440-4dc2-9728-983c913372e7">
+            <path d="M234.24,443h0m0,.1,0-.09,0,.06v0m0,0h0m0,65.07V443.29h0a.69.69,0,0,0,0,.17.65.65,0,0,0,.3.38l1,.57v63.37l-.33-.19a.64.64,0,0,0-.33-.09.66.66,0,0,0-.57.33.65.65,0,0,0-.09.31m0,.21h0m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e9ba228c-91b6-455d-8bf1-8d9970310df4">
+            <path d="M234.31,442.85a.65.65,0,0,1,.19-.16h0a.64.64,0,0,0-.18.15m-.15.43a.65.65,0,0,1,0-.21h0v0a.65.65,0,0,0,0,.25m0,0h0m0,0h0m56.52,33-.32-.18-54.88-31.69-1-.57a.65.65,0,0,1-.3-.38.71.71,0,0,0,.06.14.66.66,0,0,0,.9.24l1-.57L291,475l-.33.19a.66.66,0,0,0,0,1.13m.62,0,0,0h0l-.06,0m-.56,0h0m.55,0h0m-.54,0h0m.53,0h0m-.27.06a.65.65,0,0,1-.26-.06.66.66,0,0,0,.27.06h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c4038c31-ac15-42e3-b516-868195dfb176">
+            <path d="M315.65,424.79a.67.67,0,0,1,.2-.12l-.2.12m32.07,18.06h0m.1.17,0-.08-.06-.08a.64.64,0,0,1,.1.16m-1.92.25-29.82-17.21,1.31-.76,5.24,3,1.31.76,23.58,13.61h0a.67.67,0,0,0-.31-.08.64.64,0,0,0-.33.09l-1,.57m2,0h0m0,0h0m0,.17a.65.65,0,0,0,0-.17.66.66,0,0,1,0,.17m-.27.36h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="1db83e23-f373-414d-89bf-3ab3fe788bcf">
+            <path d="M291,541.26a.66.66,0,0,1-.33-.09l-56.19-32.45a.64.64,0,0,1-.29-.35h0a.69.69,0,0,1,0-.21.65.65,0,0,1,.09-.31.66.66,0,0,1,.57-.33.64.64,0,0,1,.33.09l.33.19,54.88,31.69.66.38-.33.19a.66.66,0,0,0,.33,1.22h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ccb83ed9-7dac-471b-b34d-6c009346ac02">
+            <path d="M291,476.37h0a.66.66,0,0,1-.27-.06h0l-.06,0a.66.66,0,0,1,0-1.13L291,475l55.87-32.25a.64.64,0,0,1,.33-.09.67.67,0,0,1,.31.08l0,0h0l.11.09h0l0,0h0l.06.08,0,.08a.64.64,0,0,1,0,.26h0a.66.66,0,0,1-.3.53h0l0,0-1,.57-54.88,31.69-.32.19h0l0,0h0a.65.65,0,0,1-.26.06" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fd65e437-c6c7-4244-accf-339e70a4987a">
+            <path d="M266.31,424.75l-.07,0,.07,0m-31.49,19.17a.66.66,0,0,1-.57-.33.71.71,0,0,1-.06-.14.69.69,0,0,1,0-.17h0a.65.65,0,0,1,0-.25l0-.06h0l.07-.11a.64.64,0,0,1,.18-.15h0l23.58-13.61,1.31-.76,5.24-3,1.31.76-6.87,4h0l-22.92,13.23-1,.57a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="92f892bf-ce0a-43d0-abb6-0175f3561e54">
+            <path d="M291,541.26h0a.66.66,0,0,1-.33-1.22l.33-.19.66-.38,54.88-31.69.33-.19a.65.65,0,0,1,.33-.09.66.66,0,0,1,.5,1.08h0l-.07.07-.09.06h0l-56.18,32.44a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="4b3d4d77-441e-4144-aebc-08b054c15963">
+            <path d="M314.89,324.54l-23.22-13.4v-1.51l24.52,14.16-.31.18-.08.05-.91.53" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d66f037d-325c-4600-930b-13312b6a6490">
+            <path d="M291.67,311.13l-.66-.38.32-.18.05,0h0a.65.65,0,0,0,.12-.12h0a.65.65,0,0,0,.15-.41v1.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="ad8402bb-63b4-483c-99db-10042ddcdae2">
+            <path d="M315.89,325.12h0l-1-.57.91-.53a.67.67,0,0,0,.08,1.1h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="16ff3087-67f7-4d64-a09f-572eb9af1e59">
+            <path d="M267.14,324.53l-1-.55,0,0-.31-.18,24.53-14.16v1.51l-23.22,13.4" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="9b54e3a1-8fa3-417e-9f08-f7cadedb6c51">
+            <path d="M290.36,311.13V310a.66.66,0,0,0,.66.66.66.66,0,0,0,.32-.08l-.32.18-.66.38" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="94c63adb-fb69-4263-84f3-130bb6acadcf">
+            <path d="M266.14,324l-.08,0-.23-.14h0l.31.18m.76.72a.65.65,0,0,0-.32-.45l-.33-.19-.07-.05,1,.55-.24.14" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e93f01e5-e0c8-41da-8c52-2d2f76b81798">
+            <path d="M291,439l-.66-.38V375.26l.33.19a.66.66,0,0,0,.33.09h0a.66.66,0,0,0,.33-.09l.33-.19v63.38L291,439m.18,1.39.09,0h0l.06,0-.16.07m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="09285a5a-3e51-41bb-b29e-867303fc3b45">
+            <path d="M347.55,341.88l0,0h0l0,0m0,0h0m.12.09h0m0,65.76a.66.66,0,0,0-.84-1l-.33.19V343.57l1-.57h.08a.67.67,0,0,0,.22-.31.69.69,0,0,0,0-.19h0a.64.64,0,0,0,0-.26.64.64,0,0,0-.1-.16h0l0,0a.65.65,0,0,1,.19.46v64.89a.65.65,0,0,1-.14.41m0,0h0m-.12.11h0m-.07,0h0l.06,0-.07,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="fecaccbf-f5d6-4e33-bd51-948c67ef2122">
+            <path d="M234.24,342.14h0m0,.09,0-.09,0,.06v0m0,0h0m0,65.07V342.46h0a.62.62,0,0,0,0,.18.64.64,0,0,0,.23.32h.07l1,.57v63.37l-.33-.19a.66.66,0,0,0-.9.24.65.65,0,0,0-.09.31m0,.2h0m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="043267ba-5abd-4657-9b9c-0ce405038fc5">
+            <path d="M234.31,342a.65.65,0,0,1,.19-.16h0a.68.68,0,0,0-.18.15m-.15.43a.64.64,0,0,1,0-.21h0v0a.65.65,0,0,0,0,.25m0,0h0m0,0h0m.26.5a.64.64,0,0,1-.23-.32.69.69,0,0,0,.06.13.65.65,0,0,0,.17.2m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0M291,375.54a.66.66,0,0,1-.33-.09l-.33-.19-54.88-31.69-1-.57h0a.67.67,0,0,0,.35.1.65.65,0,0,0,.33-.09l1-.57L291,374.13l-.33.19a.66.66,0,0,0,.33,1.22h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="aa04f14e-6805-403c-b291-8de1159ce7eb">
+            <path d="M345.9,342.44,323,329.21l-.06,0-6.73-3.89,1.31-.76,5.12,3,1.31.76,23.58,13.61h0a.65.65,0,0,0-.64,0l-1,.57m2,0h0m0,0h0m0,.19a.68.68,0,0,0,0-.19.69.69,0,0,1,0,.19m-.22.31h0m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="65141318-906c-47f5-838b-40563381b802">
+            <path d="M316.2,325.29l-.31-.18h0a.65.65,0,0,1-.33-.57.65.65,0,0,0,.09.32.65.65,0,0,0,.89.24l1-.56h0l-1.31.76" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="f5e0638d-aa6d-4b7b-80f9-02c142761be8">
+            <path d="M290.68,440.33l-24.73-14.28-1.31-.76-5.24-3-1.31-.76L234.49,407.9a.63.63,0,0,1-.16-.13.66.66,0,0,1-.13-.22h0a.67.67,0,0,1,0-.2.65.65,0,0,1,.09-.31.66.66,0,0,1,.9-.24l.33.19,23.58,13.61,0,0,7.16,4.13.07,0,24,13.88.66.38-.33.19a.66.66,0,0,0,0,1.13m.62,0,0,0h0l-.06,0m-.56,0h0m.55,0h0m-.54,0h0m.53,0h0m-.27.06a.65.65,0,0,1-.26-.06.67.67,0,0,0,.27.06h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7f947c2b-b5d0-46f9-b095-d94131b05829">
+            <path d="M291,375.54h0a.66.66,0,0,1-.33-1.22l.33-.19,55.87-32.26a.65.65,0,0,1,.64,0l0,0h0l.11.09h0l0,0h0l.06.08,0,.08a.64.64,0,0,1,0,.26h0a.68.68,0,0,1,0,.19.67.67,0,0,1-.22.31h-.08l-1,.57-54.88,31.69-.33.19a.66.66,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="34dbd425-d719-4425-bbc4-637602b72be4">
+            <path d="M266.18,324l0,0,0,0m-31.36,19.11a.67.67,0,0,1-.35-.1h0a.65.65,0,0,1-.17-.2.69.69,0,0,1-.06-.13.62.62,0,0,1,0-.18h0a.65.65,0,0,1,0-.25l0-.06h0l.07-.11a.68.68,0,0,1,.18-.15h0l23.58-13.61,1.31-.76,5.11-3,1.31.76-6.72,3.88-.07,0-22.9,13.22-1,.57a.65.65,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="aba98157-30aa-48b4-8c55-29fcb52084e2">
+            <path d="M291,440.43h0a.67.67,0,0,1-.27-.06h0l-.06,0a.66.66,0,0,1,0-1.13L291,439l.66-.38,24-13.84.2-.12,30.71-17.73.33-.19a.66.66,0,0,1,.84,1h0l0,0-.09.08h0l-.06,0h0l-23.58,13.61-1.31.76-5.24,3-1.31.76-24.73,14.28h0l0,0h0l-.09,0h0l-.16,0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="51fcf17e-6447-43b1-b60c-128ec4dc125b">
+            <path d="M266,325.41l-.1,0-.1-.06-1.31-.76-5.11-3-1-.6-.09-.06,7.77,4.48" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="926de3f7-a9ab-4f05-9487-f0424b058e21">
+            <path d="M265.82,325.3s-.39-.16-.54-.25l-7-4.13a.65.65,0,0,1-.18-.23.65.65,0,0,1,0-.56l0,0,.06-.08a.65.65,0,0,1,.51-.25.64.64,0,0,1,.33.09l.3.17.09.05,6.42,3.71.23.14.2.11.33.19a.65.65,0,0,1,.32.45" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="684681b6-4e18-4c02-9eb6-af12d96e8e62">
+            <path d="M315.8,324l.08-.05.31-.18,6.44-3.72.45-.26.08,0L315.8,324" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="15a3d0ab-915d-4d24-8f32-5be5942b0a3e">
+            <path d="M316.2,325.18a.65.65,0,0,1-.57-.33.66.66,0,0,1,.16-.84l7.36-4.25a.65.65,0,0,1,.79.23l0,0a.66.66,0,0,1,0,.7.67.67,0,0,1-.21.19l-1.1.63-5.13,3-1,.56a.65.65,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="a5a035cb-3276-409e-b813-a30939fd8f73">
+            <path d="M291,310.65a.66.66,0,0,1-.66-.66V273.84l.32.19.06,0h0a.65.65,0,0,0,.26.06h0a.65.65,0,0,0,.26-.06h0l.06,0,.32-.19V310a.65.65,0,0,1-.15.41h0a.66.66,0,0,1-.12.12h0l-.05,0a.66.66,0,0,1-.32.08" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e0adac7f-9685-45ec-b3f0-386937be9054">
+            <path d="M347.6,240.49l-.08-.05h0l.09.06m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0m0,0h0m-.44,38.41a.65.65,0,0,1-.66-.66V242.15l1-.57,0,0h0a.66.66,0,0,0,.27-.36.67.67,0,0,0,0-.17h0a.64.64,0,0,0,0-.26h0a.64.64,0,0,0-.09-.15h0l-.07-.08a.66.66,0,0,1,.21.48v37.27a.66.66,0,0,1-.31.56l0,0a.68.68,0,0,1-.31.08" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="6112632a-3bd1-453c-a39b-091695c3cc38">
+            <path d="M234.25,240.69h0m0,0h0m0,.11a.54.54,0,0,1,0-.11l0,.07h0v0m0,0h0m.62,38.06a.66.66,0,0,1-.66-.66V241h0a.68.68,0,0,0,0,.17.65.65,0,0,0,.3.38l1,.57v36.06a.66.66,0,0,1-.66.66" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="e0f6df47-23a7-4fc8-97ed-60104e89c272">
+            <path d="M290.36,273.84l-54.88-31.69-1-.57a.65.65,0,0,1-.3-.38.66.66,0,0,0,1,.38l1-.57,54.23,31.31v1.52" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="c523dec1-1d1e-4bf0-a397-c3a76de523fe">
+            <path d="M290.36,273.44v-1.11l.66.38-.33.19a.66.66,0,0,0-.33.55m.32.59-.32-.19v-.36a.66.66,0,0,0,.32.54" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="bf32d2fc-760d-4766-94a9-a115c0b16bfb">
+            <path d="M345.9,241l-54.23-31.31v-1.51l55.85,32.24h0a.66.66,0,0,0-.31-.08.65.65,0,0,0-.33.09l-1,.57m2,0h0m0,0h0m0,.17a.66.66,0,0,0,0-.17.67.67,0,0,1,0,.17m-.27.36h0" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="62797777-cf76-445f-93cc-03ed0249e2d4">
+            <path d="M291.67,209.71l-.66-.38.33-.19a.65.65,0,0,0,.24-.9.64.64,0,0,0-.22-.23l.31.18v1.51" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="7817c754-27b9-43aa-a19d-708536a95e63">
+            <path d="M290.36,273.48v0m1.31.36v-1.51l55.21-31.88a.65.65,0,0,1,.33-.09.66.66,0,0,1,.31.08l.08.05h0l.07.08h0l0,.07,0,.07h0a.64.64,0,0,1,0,.26h0a.65.65,0,0,1-.3.53h0l0,0-1,.57-54.88,31.69" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="965a073f-9ac9-4c5c-bc5f-18a8ad5bcb03">
+            <path d="M291,274.11h0a.65.65,0,0,1-.27-.06h0l-.06,0a.66.66,0,0,1-.32-.54v0a.66.66,0,0,1,.33-.55l.33-.19.66-.38v1.51l-.32.19h0l0,0h0a.65.65,0,0,1-.26.06" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="d1e13366-0e50-4d1f-a617-9513f28e15ac">
+            <path d="M234.82,241.67a.65.65,0,0,1-.63-.46.68.68,0,0,1,0-.17h0a.67.67,0,0,1,0-.25h0l0-.07h0l.06-.08h0a.63.63,0,0,1,.18-.15h0l55.85-32.25v1.52l-55.21,31.88a.65.65,0,0,1-.33.09" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+        <clipPath id="156a7038-6c7f-4fe7-aac7-273ea9e34ab6">
+            <path d="M290.36,209.71v-1.52l.31-.18h0l.1,0a.65.65,0,0,1,.22,0h0a.63.63,0,0,1,.22,0h0l.12.06a.64.64,0,0,1,.22.23.65.65,0,0,1-.24.9l-.33.19-.66.38" style="fill:none;clip-rule:evenodd" />
+        </clipPath>
+    </defs>
+    <g id="ac1b2ff7-e173-4b50-8922-6230bd0696c4" data-name="Слой 2">
+        <g id="ffae5105-9a14-4f57-b4bf-96de4a6e237c" data-name="Слой 1">
+            <g style="opacity:0.8500000238418579;isolation:isolate">
+                <g style="clip-path:url(#5f1ede63-35c9-4716-8a86-27316d25fd06)">
+                    <g style="clip-path:url(#37b56c7b-f5e3-4fc0-94e4-ecf856b8b84f)">
+                        <g style="clip-path:url(#db5234d4-1ad2-4caa-a6aa-4cc7c4d96e6a)">
+                            <rect x="445.04" y="572.97" width="137.3" height="11.2" style="fill:#d9d9d9" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g style="opacity:0.8500000238418579;isolation:isolate">
+                <g style="clip-path:url(#3cdef407-f19a-49a9-9396-855ba3a41e2b)">
+                    <g style="clip-path:url(#2b4542d9-92bf-4945-a042-e45f225a846e)">
+                        <g style="clip-path:url(#2834d41d-91e3-4435-ae20-d667387c28f9)">
+                            <rect y="370.06" width="137.3" height="11.2" style="fill:#e06727;opacity:0.6000000238418579" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g style="opacity:0.8500000238418579;isolation:isolate">
+                <g style="clip-path:url(#ebd5ce98-1290-446d-aa69-fbfaab12e2c9)">
+                    <g style="clip-path:url(#0e40ad52-7b96-4a36-874e-c794c23206b2)">
+                        <g style="clip-path:url(#b619c532-3f52-401f-8c9b-99d1e191c9ab)">
+                            <rect x="445.04" y="166.97" width="137.3" height="11.2" style="fill:#d9d9d9" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g style="opacity:0.6000000238418579;isolation:isolate">
+                <g style="clip-path:url(#803a1e2b-a8f1-420c-8386-49764fb8d6c6)">
+                    <g style="clip-path:url(#d5b3cc82-522a-48cc-a694-adc502a711f8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="646.07" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4a9ee42a-6e26-45af-a5ea-f2c698758283)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="184.32" y="644.41" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#05ba7682-6b0e-4359-8983-26c7fb4b80b9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="633.33" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#add29077-cc5c-4345-b5c7-4871f87bba3f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="633.33" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#62e75318-c63d-4eb1-aa07-48578ecfb111)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="172.09" y="626.28" width="14.14" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7e6e388f-97f7-4f10-9c77-fc6599afa6bb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="658.81" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5279c70c-5126-486d-b192-24f506fa91c0)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="638.76" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#145b76bf-8cba-469f-aecb-bf378ca2a9b3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="626.29" width="23.51" height="18.36" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#dfd7a068-171e-411c-ae76-1c9b0b2e354b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="664.23" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c4a84991-df48-42f4-ba4a-fe3a6478ac63)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="606.48" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#89b831cc-c106-4fe5-8e13-0366892b63c5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="184.32" y="593.74" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d50c4adb-e244-46ef-b8f8-5532e52bc3c0)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="593.74" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2d900d57-835f-4e7f-889b-fdd02193358e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="593.74" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#653734f6-b523-4a67-920d-4da8ebf79034)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.36" y="580.94" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6ba3654a-8819-4522-a6df-2679ef7c23fb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="619.22" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2bc2ac24-9bb9-4e99-8439-ff0b4893ecfc)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="593.74" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#78c65756-64a7-4eff-afa2-6f67636078f1)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.19" y="580.94" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#778cf464-370d-40b6-aefd-71a6693d14b4)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.25" y="624.64" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#1007a72c-01cb-4475-8198-9b1d8e3e40cb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="665.84" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#465e88f4-1749-4191-98e2-5df27310633c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="219.05" y="653.1" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f998715b-44a2-42fb-9512-417392cdafa9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="653.1" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bcea1c16-6f2c-4a35-a730-71eea31240c6)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="653.1" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0290e135-8239-4115-a936-1e0e795dd7a5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="206.82" y="646.04" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#1925afa0-ba3f-48b0-bb7b-0c9af0de5a00)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="678.58" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#864d2d6c-bb1d-4090-946a-9465ed3c17f5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="653.1" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#089d9304-764a-45df-a406-27b9fcad9050)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="646.04" width="23.53" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0463055a-e0c6-4203-9d63-038e65e8e0c7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="678.58" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5107688a-51d7-4cd5-b07a-c038165f735e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="626.25" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3c3f6028-9f72-4079-ad92-1c91026548e2)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="219.05" y="613.51" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#359b3d8b-3c78-492b-a01d-ae2bc6df9382)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="613.51" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#210da487-b068-413c-b7ce-0bd8329b4c2e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="613.51" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4affb113-aa22-44e2-9bae-4f571e5221a3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="600.77" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#51a859b5-e2cf-4970-9175-70aeda05b74c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="638.99" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e2eb5ff1-dccf-42a0-8f0d-e37ca015c19f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="613.51" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5e60f273-e665-4a9b-9838-cc36af4462c1)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="174.92" y="600.77" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5d83d406-4a2b-45f2-99e3-9966a9e0a3a9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="196.99" y="638.99" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a2ba3f2f-4b11-4ec5-8156-eb4f269b3478)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="646.07" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9a545951-1669-421e-a591-07c16e3fc466)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="430.46" y="633.33" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8e44b541-ab44-458d-9efd-7146cfca0381)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="386.33" y="644.41" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6a239591-1d75-492b-abfa-f1d39eea5677)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="638.75" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8a329540-2208-4b97-8c1d-5539cd471173)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="418.23" y="626.27" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#94201ace-b1da-4b21-b101-70f0465fb162)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="664.23" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#cd49f3ad-f95c-4bc2-b620-5e5fc8f05ebb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="633.33" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#71752a10-d283-4748-957c-285a36ed0966)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="626.28" width="14.14" height="12.95" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#dafd4303-c1ed-4eec-9c67-2c7a677e18eb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="658.81" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4edb5108-590a-4ba8-ae3c-b15a974f1a2d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="606.48" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5ca89be9-1963-4340-b079-962cb65dfb63)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="430.46" y="593.74" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#76526139-823b-4c29-afce-f0d6bd7cead7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="386.33" y="593.74" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f02dcf62-9095-4d02-b307-89f3b64f56ca)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="386.33" y="593.74" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#cef1c26c-9282-4e79-abdb-5d3857508b3a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.29" y="580.94" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#208cff1a-b216-4243-85df-b7c04147b900)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="624.64" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e164fdbe-f44d-4262-924d-5ae44343df98)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="593.74" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e4f23e1b-8c76-406c-86af-b9ed98273eb3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="386.33" y="580.94" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b80b67f0-3223-4dd3-9b9d-6e0b9c4f67f2)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="408.39" y="619.22" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#1fb416a5-ab4b-4b71-9b25-b846cf5bf032)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="665.84" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6dbda721-da8a-4d0e-829a-5dfe95bcb589)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="653.1" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#89d77c6b-52bb-460b-bb61-70b3421ba392)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="653.1" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#625f0061-4935-45da-a487-4273ea6e876a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="653.1" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4989403d-db91-4ffb-8dd1-51689cb5d433)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="383.49" y="646.04" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#352e9972-86ea-4666-b127-88e920ca8620)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="678.58" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9c23e6bf-33f4-4c7d-992f-511700bdd9b0)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="653.1" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#adff4c8e-87cc-4c56-85ae-13da39e4435f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="646.04" width="23.53" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#90866835-791a-4e2d-9b4d-d1f82fc394f9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="678.58" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3d0ffb3d-e2c8-45d4-adec-e0d82357e58e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="626.25" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f7c5500e-1aef-44ab-aa44-159d7ab9609c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.72" y="613.51" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3b902a39-7b16-4948-a5f3-a3a0e9ec5c84)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="613.51" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7391361d-4c61-4c23-9aed-f53cf91d87ac)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="613.51" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e1553cdf-73a1-4b94-9f8a-bc84df02bf62)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="600.77" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#22870a96-9cbc-48f0-ad95-9d7b6a064a79)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="638.99" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2f1b9c7e-ee0d-4045-b43a-d2d438b49457)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="613.51" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5ae189e3-79ea-43ff-8a87-29be7e0429f7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.59" y="600.77" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f8bb0ba4-5c84-47b3-9a69-ee12f98d2213)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.66" y="638.99" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9bab27ba-ae79-4332-afee-30df988b0d29)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="545.11" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4fef8c60-fe48-4a2c-8ab0-881c0ef96cc5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="184.75" y="543.45" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#00c57ce0-fc4b-48ed-aabf-59388d9edc01)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="532.36" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a831751e-cb1b-4384-91ee-422f4db3e1e7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="532.36" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f977a132-3367-496f-aa3c-f2b16e1a43d2)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="172.52" y="525.31" width="14.14" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a081f18c-58d3-4833-920b-961ab322d29a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="557.85" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0819c5db-481a-4385-90d5-d497706eadc2)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="537.79" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#01855588-da99-46f0-982e-123bf24509fb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="525.32" width="23.51" height="18.36" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#59879e4d-57b3-4b0d-a515-d9a7e8d7c7ea)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="563.27" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#de3dd20a-e426-4cb1-884f-86f1976faca5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="505.51" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f8d95af4-08f2-4279-a101-0312aff9357e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="184.75" y="492.77" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6136a862-a0c4-4548-bf44-2fa7bca12379)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="492.77" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#1f630209-d022-46f9-98c9-0caa5d0ea11c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="492.77" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#72089432-8ecd-4928-8980-6070b24df8e3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.78" y="479.96" width="33.28" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d1e4abd2-1aa3-4d18-803e-6decab021cd5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="518.25" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f2dc52f7-b6e3-4ef0-8a93-8e16964b2215)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="492.77" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#13a31307-5f40-4269-ba7b-27a182ceaf47)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="140.61" y="479.96" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e03499dc-19bc-46e8-9eeb-6d97d070fd7b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="162.68" y="523.67" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b964a935-346c-47a8-8928-34f80c16a952)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="564.88" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b75f1d57-9063-482a-a8af-6df19b52495a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="219.49" y="552.14" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#efa77866-aab8-4d57-9795-7c0fee76feaf)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="552.14" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#89883c8c-7ed3-4a04-b8c6-beda20439457)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="552.14" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b1bdf42a-2872-45f0-8aa4-7a81b0c1468a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="207.26" y="545.08" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c17e8112-c54d-47ea-bb61-aba7df44bac3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="577.62" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4209a39e-0a69-4744-9ccb-825108abd5ee)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="552.14" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#30c71169-a952-4c8c-a042-9520276db30b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="545.08" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9342425d-9e8e-42ef-bae2-89d116de8a7d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="577.62" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f27210f8-71bc-49aa-bcc1-905976e31db8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="525.28" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c77dd7de-affd-4bd1-9a70-bdacf2c2e58b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="219.49" y="512.54" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6270f005-2145-4feb-b636-cabe758a6caf)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="512.54" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9ad73486-c7b7-4a27-b5a1-ceffd4fcbb37)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="512.54" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a448ca66-8c84-4841-ae9b-180107b67372)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="499.8" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#de449dec-fd7c-41ac-8491-b2d0caada523)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="538.02" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bac53c47-7b30-4d78-b5ca-603d8d64077b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="512.54" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d1ee9b33-ccc1-4b8f-8ee7-9a81dd27a203)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="175.35" y="499.8" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#256f7474-8616-4b2b-ade1-920916ae511f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="197.42" y="538.02" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c9bd5b5e-25f6-4766-a055-85b9912c38af)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="544.84" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#68353e62-946d-46db-a55b-682de37fa1d5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="429.82" y="532.15" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7e3ea5eb-7d0a-46f8-bd0f-1d1684be9eb8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="385.85" y="543.19" width="11.31" height="14.57" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0335a265-7087-4383-8ea2-36733bba6899)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.2" y="537.55" width="23.94" height="18.6" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#26dd8670-8f67-4121-8cde-af3388383203)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="417.63" y="525.11" width="23.49" height="18.35" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#50887b1a-cbaf-4892-9ea9-f5825c563ebf)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.2" y="562.94" width="23.94" height="18.6" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#eb4cbec4-e718-4cdd-8c04-6ce5b2e06e07)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="532.15" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9f590b27-1106-44d1-b882-95782970daf4)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.21" y="525.12" width="14.13" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#fa5b01cd-b7d2-449f-844a-f5bab70bfd95)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="557.53" width="33.3" height="24.01" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4d3acccc-6a1e-49c9-ae0b-60988b1bce65)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="505.39" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bde3186c-298d-4d2d-b3f0-c66669eb81d8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="429.82" y="492.7" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f30b63a4-8f98-40c3-99c4-0bd4ab6a8720)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="385.85" y="492.7" width="11.31" height="25.61" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a8b39159-ee22-43e3-bb0b-45c90714a7e3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="385.85" y="492.7" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d7e58e72-0da8-49b9-bd72-93546bd11b3b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.73" y="479.94" width="33.4" height="24.06" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8ae157cc-90f3-4ac0-959c-65a739b5445e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.21" y="523.49" width="23.94" height="18.6" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2b48b455-fc23-4c69-a4d1-e2668b474676)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="492.7" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5c9120e5-9fab-42bb-9345-08cc4a2b9c73)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="385.85" y="479.94" width="33.19" height="23.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#68f97499-ffcb-45be-8935-bead5e14f0eb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="407.83" y="518.09" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#09f240b1-f965-4438-9e24-b041b4ccc906)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="564.54" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#655531b2-acff-4909-aaf0-8d19bf2bbf13)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.2" y="551.85" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#26e7c9ac-1d3a-4673-9ecb-1e7335696c31)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="551.85" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#afd2a02d-3e81-4834-a6b9-7bd4159d4367)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="551.85" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#66b1e74b-ff96-4cfd-968d-7407328fb482)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="383.02" y="544.81" width="23.49" height="18.35" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e8740039-2961-43bc-91f6-7be814aaa3cd)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="577.23" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#cbe02dba-dbd5-4d6d-998f-085286430904)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="551.85" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5230271d-96c6-4d35-af8e-019faf411bd9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="544.81" width="23.49" height="18.34" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8a2e16ff-6670-43ea-88ca-d140ad06c478)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="577.23" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#242cb1b2-9cb1-47ea-b81a-16c2e8f9cf2c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="525.09" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3c3dbc1d-14ff-4747-a55e-bb395b29a13e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="395.2" y="512.4" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#820abb8a-1f2a-4189-94b8-cc73d7afcd20)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="512.4" width="11.31" height="36.7" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f11b153b-1244-45e0-bbc4-40e6773f7007)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="512.4" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e6a30dd4-4e6d-4015-b24d-a686387f51b5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="499.7" width="33.3" height="24.01" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e2cc1e3c-8f74-44bb-b642-202e7ec8c973)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="537.78" width="33.3" height="24.01" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0c3e3054-763f-4456-94a0-bc3ca7f62cbf)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="512.4" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7f7c0580-4a24-4963-9af8-950b8a4b91c7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="351.23" y="499.7" width="33.3" height="24.01" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f40cd0b9-d539-4118-9e34-6003b9497943)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="373.22" y="537.78" width="33.3" height="24" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e07038e0-d906-43bb-b3c6-a6bc925f2d1d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="696.77" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#acb4a874-62a7-4860-bf65-8d2da8ce18d4)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="341.99" y="684.03" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#e60d2ee1-1afd-4105-8620-f02a767ebf29)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="695.1" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0b3dce98-aea2-4a7d-b5e7-1fa0abf4bed1)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="689.45" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#95b4b060-ef1f-46bd-b4db-519e12fa1c65)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="329.76" y="676.97" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2b3e65e2-26cd-4799-8b33-b4d2241241de)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="684.03" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#41341d36-77c5-4227-a168-d716402f7257)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="676.97" width="14.14" height="12.95" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d8b29ca2-b14f-49c9-ba1b-ba84cbd774e0)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="696.77" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#ae8baa35-f773-4e7c-9792-9afea8ce634a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="272.52" y="695.1" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#2e08d45f-8499-4f21-8de0-ef658fcb9ddb)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="684.03" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3e60487e-f4ec-469f-add3-51390a1ab1fc)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="684.03" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f23fe2a3-b10c-4633-bc63-a9b31f5c866d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="260.29" y="676.97" width="14.14" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4cf20496-ea69-4905-84b2-4ec6243cc65f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="689.45" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8b97fac5-237e-4827-981e-25c5a1b8cf00)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="676.98" width="23.51" height="18.35" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#354e0cd0-78cb-47bc-b7a6-061057bbfbf3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="657.18" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#14d7a71e-1b22-41a7-8bd8-de4c790863b4)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="272.52" y="644.44" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a22d74f7-bd76-4a9f-b3b1-81c766634235)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="644.44" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#81f34bb4-850b-4d5a-8d1a-afbec7475a98)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="644.44" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9bf433f6-4d37-42e6-af4a-2d1570c568a8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.56" y="631.64" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5b9f5941-1240-4dd5-afd1-89726e2dc4d2)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="669.91" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8694d951-43fa-47f8-824b-ff1ff17a6eb7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="644.44" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#52d115f7-1140-4721-8a09-727fe850ec83)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="631.64" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c16e860f-195b-45be-b585-88300b54953f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="675.34" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#be358316-15ef-44d9-b69b-5689fe7e698f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="657.18" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#17363eca-4dd9-454e-9028-cc796035941d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="341.99" y="644.44" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5d90bd9c-d973-403f-9f0a-bc8beefeabd8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="644.44" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5dc23f6f-284b-4c48-ae25-12435ebd3dc7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="644.44" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a10a1fa7-7862-46af-bb7b-5906481e4647)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.82" y="631.64" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#963abb08-6416-49b7-a0c4-8f37a276256d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="675.34" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#da04603a-7b2f-461a-8eec-bc5b8d322cf4)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="644.44" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bfc4d28c-8f58-4a3a-a1ee-5bb8e1172096)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="631.64" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9f8c1073-bd31-4333-8f41-ef10a465e65e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="669.91" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9da7940b-201d-48a8-8da7-5d9a3f8a884c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="295.03" y="696.74" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7e0a7858-0781-452f-8e62-e38975528805)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="696.74" width="23.53" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#efca1f0a-52a2-47d9-88a3-623238ca6462)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="676.94" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#33a1b2a2-b8f6-4777-841e-953a89c0e316)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="664.21" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3034ea2d-6090-4752-bc2c-b2fd3e7fd1d6)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="664.21" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c231403d-65f8-4406-a72d-0cfb70aa9bed)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="664.21" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#38ef0559-200b-41b1-ad3a-9f20d28f4422)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="651.47" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b53dabff-884a-4a71-9f8b-3156a5176485)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="689.68" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#ddc1b4e8-f58a-4e1a-a9b1-b239e60afbce)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="664.21" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f5f47381-d5d2-43ea-884e-2307fdd0ea93)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="651.47" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f8bcbdc9-d888-461a-93af-778865600c5e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="689.68" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c0e06da9-889e-41b8-bd7b-0b66738e18d9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="595.38" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b46aaeee-8b11-4825-a458-0bf332613ec7)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="341.99" y="582.64" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9660abc4-c02b-4844-b5ff-f355c070c046)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="593.72" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#dab324d8-9d4b-4b09-bc3c-48d559dbe06e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="588.06" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#b0581079-c2a5-45b6-a59d-d5927dce080c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="329.76" y="575.58" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a0ffb9c6-1b4f-41df-ab7e-8a6299c228ec)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="613.53" width="23.99" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c341594e-1417-4fbd-98f6-da2a66cce338)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="582.64" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7094e920-a9ca-476e-b1c6-91cedc8fde4e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="575.58" width="14.14" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#255c3830-c326-473a-9f29-890605caac0c)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="608.11" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#fbbc90f0-d8b1-4f52-9cd9-07effd2f9f19)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="595.38" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0b2c183e-b6cf-4961-ac23-337d83b4ad67)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="272.52" y="593.72" width="11.31" height="14.58" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7800526f-6e70-431c-a6ea-308ffd0fba4b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="582.64" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#13e20960-3249-4e5c-86b2-888ea0eb8691)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="582.64" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#8f3f453c-8a06-4f80-adbc-7dc9b9942d71)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="260.29" y="575.58" width="14.14" height="12.94" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c90c41d4-0d82-4916-83ca-f728dc16c107)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="608.11" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c5ec9361-c37d-48ce-afea-b83d582b1c8d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="588.06" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3d915ad4-73dc-4e64-a82e-2a7bc02a9c15)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="575.6" width="23.51" height="18.35" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d60b66b8-dcee-4473-918a-fb5f99ca5c03)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="613.54" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#6ac30dfc-dcf5-432f-94eb-4335f6f94dbd)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="555.79" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#86081d80-032f-4cc4-a417-bb8b9a61d42d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="272.52" y="543.05" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5221c923-04fe-4dad-93b9-bf663fb6e1c6)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="543.05" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9011ca3f-3767-4aa5-a577-4a369a8c17f5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="543.05" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#dd5838af-ddc2-4eb8-901a-2d5148865399)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.56" y="530.25" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#08adb227-32d9-4535-b3cd-fb9d500a4d8f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="568.52" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#05996df3-6ad9-4ecc-ae28-00e1ea815b39)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="543.05" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#c43fe0f1-3708-44ba-b266-d206da5a5d60)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="228.39" y="530.25" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#a5a99d59-319d-448d-9940-bb00d67ab4d3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="250.45" y="573.95" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#4f1dc898-3e52-4bdd-8970-cc5379d07731)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="555.79" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7bfdbf37-e5ae-4e96-b2cd-e74dcf4b8f61)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="341.99" y="543.05" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#3b0715d2-9719-4af2-9922-ff85b4cbc05d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="543.05" width="11.31" height="25.66" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#788c9edb-6bc5-4d60-9477-8704fdcd9d8a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="543.05" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#16b12d88-7965-42b6-9d83-1eb5a7ebed8b)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.82" y="530.25" width="33.48" height="24.11" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bae28f08-2e86-4733-ad78-0078e286498d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="573.95" width="23.98" height="18.63" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f8fa0641-9d9b-4cdf-9bfe-3c63fd458821)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="543.05" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5eb4c16f-2317-4d59-a024-0fe8c100a676)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="297.86" y="530.25" width="33.27" height="23.99" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5e08cf07-a431-4db3-ae80-a3bcf50ea472)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="319.92" y="568.52" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#7d1790a0-5111-4391-b9e2-8240170bb1fa)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="615.15" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f47cb61c-5ee3-4451-913d-cb46bb7c6531)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="602.41" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#bd23e218-e888-421a-bd20-a56be1548a0a)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="602.41" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#5eef347a-1794-4982-814b-81ea7f93fe0d)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="602.41" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#37b7a4fb-242e-41c4-bf51-de2d41860c51)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="295.03" y="595.35" width="23.54" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#d3a1f6a1-fb79-4185-934c-ca00931d3e13)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="627.88" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#98b498f7-0994-425a-843b-a164d86fb153)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="602.41" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#204fe52b-5efd-443e-a243-8b4fe19fa99f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="595.35" width="23.53" height="18.37" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9bae1580-3a09-4ce1-8910-9a3cf2365f77)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="627.88" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#695cc806-c90c-43f4-beec-e51aa9b0ca80)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="575.56" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#9d47377c-69c4-414e-8ac1-24d5745985e3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="307.25" y="562.82" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#75ad473e-4f8f-4daf-8617-42e3a3acd6c8)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="562.82" width="11.31" height="36.79" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#771739e5-88d1-4b22-a6ac-84171304dfe5)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="562.82" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#fa9e6410-8545-4369-8b5d-30f50eeb1be9)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="550.08" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#0ba5bd47-ee69-4fa8-86d3-725deb60be60)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="588.29" width="33.38" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#f6a8948d-2b24-4c98-ba1e-26642d32e34f)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="562.82" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#97f17da1-9703-4b4e-9fda-fe8c4940b9a3)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="263.12" y="550.08" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                    <g style="clip-path:url(#ff877c87-4995-4e7d-8f1a-afa3c49be72e)">
+                        <g style="clip-path:url(#d520b33d-7b8e-412b-afc1-a17560c92963)">
+                            <rect x="285.19" y="588.29" width="33.37" height="24.05" style="fill:#131311" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g style="clip-path:url(#99088c1d-54e8-45bf-bafd-f201543e2cdb)">
+                <rect x="285.32" y="167.04" width="11.31" height="178.35" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#62aef9d8-ee80-4db1-ace1-e564581cf720)">
+                <rect x="429.98" y="83.52" width="11.31" height="178.35" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#ff6dd135-bd57-4fc2-8160-9a8d1ad48101)">
+                <rect x="140.66" y="83.52" width="11.31" height="178.35" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#60054f8d-3259-41db-80e5-0bf3d6562187)">
+                <rect x="140.66" y="83.52" width="155.97" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#988b1c01-f953-401d-93bf-2d524cb6d914)">
+                <rect x="285.32" width="155.98" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#5bc3e1e9-d598-478f-a052-35fec22d2fb8)">
+                <rect x="140.66" y="250.56" width="155.97" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#d4ff1114-e977-4f2f-8780-d0e4f807e0c4)">
+                <rect x="285.32" y="83.52" width="155.98" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#1fda6fcc-9df1-4e02-90dc-72aad700e76e)">
+                <rect x="140.66" width="155.97" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#526f9f03-23ec-4113-9a7e-526324484bc5)">
+                <rect x="285.32" y="250.56" width="155.98" height="94.83" style="fill:#4b4b4b" />
+            </g>
+            <g style="clip-path:url(#27643af6-57d6-4812-8f99-10ff8e17f16e)">
+                <rect x="126.9" y="184.35" width="328.23" height="376.97" style="fill:#fff;opacity:0.8500000238418579" />
+            </g>
+            <g style="clip-path:url(#ff3d5e3e-c473-4bf2-b63e-b1d345981a2b)">
+                <rect x="127.01" y="184.24" width="328.22" height="376.97" style="fill:#fff;opacity:0.8500000238418579" />
+            </g>
+            <g style="clip-path:url(#cad78ddb-5dfb-4470-979d-ac9db0a83978)">
+                <rect x="126.6" y="183.7" width="328.76" height="378.08" style="fill:#e06727" />
+            </g>
+            <g style="clip-path:url(#bf0e27ba-f575-4605-bfc2-9ed12c06b494)">
+                <rect x="373.83" y="420.74" width="11.31" height="75.15" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#d7bf0477-1c81-41c0-ae2b-88a00cd90293)">
+                <rect x="430.02" y="387.35" width="11.31" height="76.03" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#6dbec7e4-0bf4-4e1f-9b47-8a2d7c6b2b2b)">
+                <rect x="317.63" y="416.52" width="11.31" height="17.57" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#a2f80a53-a022-404f-b317-aa8830b06b3c)">
+                <rect x="341.55" y="401.35" width="42.94" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#a90fdd24-8705-46b5-82ec-ddaf99235f07)">
+                <rect x="399.12" y="369.33" width="42.21" height="28.82" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#12743ada-445a-4a52-a1fb-ccbf6e3acd28)">
+                <rect x="341.55" y="466.24" width="43.27" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#9afcd67e-196b-4ab7-a2e5-cd2f35812370)">
+                <rect x="373.83" y="387.27" width="67.51" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#d24206a8-c5f3-4858-ba7a-8f8b42991ff2)">
+                <rect x="342.87" y="369.37" width="16.91" height="15.12" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#db20f9f9-93e3-4721-800e-8221f9d99e6c)">
+                <rect x="373.83" y="452.15" width="67.51" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#dd6f6dbf-6dd1-414e-be9a-62a8cb7f642a)">
+                <rect x="196.89" y="420.74" width="11.31" height="75.15" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#8d4fbe4b-ca32-4860-8cee-7df5d4849ede)">
+                <rect x="253.09" y="415.56" width="11.31" height="19.48" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#857c685e-ccd4-406d-bd46-3abeb7699d66)">
+                <rect x="140.7" y="387.94" width="11.31" height="74.85" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#988838be-2aca-42aa-a853-3992b5b57945)">
+                <rect x="140.7" y="387.35" width="67.19" height="43.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#8ed9779e-8050-4cc3-b0bd-c6d959fbed7b)">
+                <rect x="222.61" y="369.95" width="16.55" height="14.54" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#865d61a9-1c3e-49ae-9839-5e6c9e3e6036)">
+                <rect x="140.7" y="452.15" width="67.2" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#a457a273-d067-43d5-a7eb-5f3f2731c207)">
+                <rect x="196.89" y="401.35" width="42.45" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#dbcf3cbf-d0ac-4516-a0a1-deedaef3b9ed)">
+                <rect x="140.7" y="369.95" width="41.78" height="28.63" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#bc53b6f0-e50f-4b7b-8d16-269d7f0d795a)">
+                <rect x="196.89" y="466.24" width="42.27" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#2b1cb09d-ac71-4a3c-89b2-04b61a3536b8)">
+                <rect x="196.89" y="319.91" width="11.31" height="75.16" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#b6726e67-9535-4a1f-8969-8dd374b0f868)">
+                <rect x="253.09" y="315.82" width="11.31" height="18.4" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#d7f3e43b-6d43-4580-8ee8-e7cfe72f9bff)">
+                <rect x="253.09" y="286.79" width="11.31" height="38.22" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e5fbd524-c8f7-4a84-b965-c0898ff870ac)">
+                <rect x="253.09" y="314.31" width="11.22" height="10.72" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#79a69df0-e6fe-4e00-bfe7-c9cc3a2e8da7)">
+                <rect x="140.7" y="287.12" width="11.31" height="74.84" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#90f4da83-4618-46ff-8563-68666ec05a24)">
+                <rect x="140.7" y="286.52" width="67.18" height="43.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#327128a4-3594-4410-86c5-28e73e54f315)">
+                <rect x="197.17" y="253.9" width="67.16" height="43.15" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#20268253-3ca9-437b-b556-065b1be7a14f)">
+                <rect x="140.7" y="351.32" width="67.19" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#31d45d19-70bb-42cc-8ec3-2e52f4168342)">
+                <rect x="229.19" y="286.44" width="35.21" height="24.83" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#2c8efb96-99ef-46e1-98ef-d1ba853f9eaf)">
+                <rect x="228.83" y="300.51" width="11.67" height="11.34" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#0201fcb6-8894-46e1-9942-db98db89d117)">
+                <rect x="196.89" y="301.27" width="42.3" height="28.92" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e70b0f07-48dc-4f9b-9939-45230685aab0)">
+                <rect x="227.88" y="300.61" width="11.96" height="11.41" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#8d95ac6f-8470-47f9-bbb4-9c07ffb9a3c0)">
+                <rect x="172.94" y="253.9" width="35.22" height="24.89" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#1e02b71f-13b1-4198-856e-e812dc175f8c)">
+                <rect x="172.61" y="268.03" width="11.64" height="11.33" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ca354ad2-475b-414d-9093-1c98e8a7bba4)">
+                <rect x="140.7" y="268.79" width="42.25" height="28.95" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#2452e497-8228-4af2-a5dc-e48a0dbe62d1)">
+                <rect x="171.63" y="268.13" width="11.96" height="11.41" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#9a48de43-c9a7-4410-a70f-f4876d5dbf37)">
+                <rect x="196.89" y="365.41" width="42.27" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#c80e8aee-24b6-4bae-b362-745cfae35b96)">
+                <rect x="373.83" y="319.91" width="11.31" height="75.16" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#c5743b4a-6378-437a-a05b-7880fae9def3)">
+                <rect x="430.02" y="286.72" width="11.31" height="75.83" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#08dd95c2-5862-4844-8896-d2fdc2314ec4)">
+                <rect x="317.63" y="315.82" width="11.31" height="18.4" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#12e889ed-0007-48d8-bed0-2582888a0b17)">
+                <rect x="317.63" y="315.74" width="11.31" height="10.84" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ef534d6b-eda0-4831-b893-5d98a1175b94)">
+                <rect x="317.63" y="287.11" width="11.31" height="37.95" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#aa9c47cf-750b-4c3c-9e6e-78a5ac5c83ee)">
+                <rect x="318.16" y="314.31" width="10.79" height="10.69" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#fd0f1d33-c742-4e57-8a57-c3b9675aa8af)">
+                <rect x="342.84" y="301.27" width="41.64" height="28.92" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ba61df28-e6d4-44de-ac5e-e3f0cb02d639)">
+                <rect x="342.53" y="300.71" width="11.63" height="11.32" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#eef351b8-7cd9-40c5-b5bf-0b0f932671a3)">
+                <rect x="317.93" y="287.09" width="34.91" height="24.17" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#58bc869b-202f-4480-9374-4d9cd5adb6e8)">
+                <rect x="341.53" y="300.51" width="11.96" height="11.41" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ee98203c-15a2-478d-85dc-3e71fd7ee452)">
+                <rect x="399.04" y="268.82" width="42.3" height="28.5" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#80641261-5d54-44aa-815a-6b2410d05717)">
+                <rect x="398.69" y="268.25" width="11.65" height="11.33" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#5a051c8e-cf83-498e-951f-596d94922b58)">
+                <rect x="374.48" y="254.09" width="34.95" height="25.34" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#8d4810f2-65c9-41f9-b3fc-a023d393671a)">
+                <rect x="397.72" y="268.06" width="11.97" height="11.42" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#9e30850b-688c-477a-b659-1fe849eb5157)">
+                <rect x="342.87" y="365.41" width="41.62" height="29.67" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#0d1da091-394d-4097-af5e-ec501a619881)">
+                <rect x="373.83" y="286.44" width="67.51" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#83dca65f-7331-40f5-8c7d-f849c8d0c6dc)">
+                <rect x="317.63" y="253.99" width="67.51" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#eadae1b1-add1-452a-a87f-3a8aad56ebf2)">
+                <rect x="373.83" y="351.32" width="67.51" height="43.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#b8d1285e-57af-4d4c-9ea1-3d8675173a03)">
+                <rect x="285.36" y="471.09" width="11.31" height="73.75" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#7f0fe8f0-7ebb-4094-9e66-fbb435f10d2c)">
+                <rect x="341.55" y="437.69" width="11.31" height="76.04" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#cb98c2de-8440-4dc2-9728-983c913372e7)">
+                <rect x="229.16" y="437.96" width="11.31" height="75.4" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e9ba228c-91b6-455d-8bf1-8d9970310df4)">
+                <rect x="229.16" y="437.69" width="67.19" height="43.68" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#c4038c31-ac15-42e3-b516-868195dfb176)">
+                <rect x="310.65" y="419.68" width="42.22" height="29.14" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#1db83e23-f373-414d-89bf-3ab3fe788bcf)">
+                <rect x="229.16" y="502.5" width="66.85" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ccb83ed9-7dac-471b-b34d-6c009346ac02)">
+                <rect x="285.36" y="437.61" width="67.51" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#fd65e437-c6c7-4244-accf-339e70a4987a)">
+                <rect x="229.16" y="419.71" width="42.15" height="29.21" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#92f892bf-ce0a-43d0-abb6-0175f3561e54)">
+                <rect x="285.36" y="502.5" width="67.51" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#4b3d4d77-441e-4144-aebc-08b054c15963)">
+                <rect x="286.67" y="304.62" width="34.52" height="24.92" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#d66f037d-325c-4600-930b-13312b6a6490)">
+                <rect x="286.02" y="305" width="10.66" height="11.14" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#ad8402bb-63b4-483c-99db-10042ddcdae2)">
+                <rect x="309.89" y="319.01" width="11.01" height="11.11" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#16ff3087-67f7-4d64-a09f-572eb9af1e59)">
+                <rect x="260.83" y="304.62" width="34.53" height="24.92" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#9b54e3a1-8fa3-417e-9f08-f7cadedb6c51)">
+                <rect x="285.36" y="304.62" width="10.97" height="11.51" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#94c63adb-fb69-4263-84f3-130bb6acadcf)">
+                <rect x="260.82" y="318.78" width="11.32" height="10.9" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e93f01e5-e0c8-41da-8c52-2d2f76b81798)">
+                <rect x="285.36" y="370.26" width="11.31" height="75.15" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#09285a5a-3e51-41bb-b29e-867303fc3b45)">
+                <rect x="341.55" y="336.86" width="11.31" height="76.04" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#fecaccbf-f5d6-4e33-bd51-948c67ef2122)">
+                <rect x="229.16" y="337.13" width="11.31" height="75.41" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#043267ba-5abd-4657-9b9c-0ce405038fc5)">
+                <rect x="229.16" y="336.86" width="66.85" height="43.68" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#aa04f14e-6805-403c-b291-8de1159ce7eb)">
+                <rect x="311.2" y="319.54" width="41.67" height="28.46" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#65141318-906c-47f5-838b-40563381b802)">
+                <rect x="310.55" y="319.53" width="11.96" height="10.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#f5e0638d-aa6d-4b7b-80f9-02c142761be8)">
+                <rect x="229.16" y="401.67" width="67.19" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#7f947c2b-b5d0-46f9-b095-d94131b05829)">
+                <rect x="285.36" y="336.78" width="67.51" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#34dbd425-d719-4425-bbc4-637602b72be4)">
+                <rect x="229.16" y="318.95" width="42.02" height="29.14" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#aba98157-30aa-48b4-8c55-29fcb52084e2)">
+                <rect x="285.36" y="401.67" width="67.51" height="43.76" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#51fcf17e-6447-43b1-b60c-128ec4dc125b)">
+                <rect x="253.26" y="315.92" width="17.77" height="14.48" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#926de3f7-a9ab-4f05-9487-f0424b058e21)">
+                <rect x="253.02" y="314.76" width="18.88" height="15.54" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#684681b6-4e18-4c02-9eb6-af12d96e8e62)">
+                <rect x="310.8" y="314.76" width="17.36" height="14.25" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#15a3d0ab-915d-4d24-8f32-5be5942b0a3e)">
+                <rect x="310.55" y="314.71" width="18.51" height="15.47" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#a5a035cb-3276-409e-b813-a30939fd8f73)">
+                <rect x="285.36" y="268.84" width="11.31" height="46.81" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e0adac7f-9685-45ec-b3f0-386937be9054)">
+                <rect x="341.55" y="235.43" width="11.31" height="48.5" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#6112632a-3bd1-453c-a39b-091695c3cc38)">
+                <rect x="229.16" y="235.69" width="11.31" height="48.18" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#e0f6df47-23a7-4fc8-97ed-60104e89c272)">
+                <rect x="229.19" y="236.01" width="66.17" height="42.82" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#c523dec1-1d1e-4bf0-a397-c3a76de523fe)">
+                <rect x="285.36" y="267.32" width="10.66" height="11.7" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#bf32d2fc-760d-4766-94a9-a115c0b16bfb)">
+                <rect x="286.67" y="203.19" width="66.19" height="43.37" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#62797777-cf76-445f-93cc-03ed0249e2d4)">
+                <rect x="286.02" y="203.01" width="10.66" height="11.69" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#7817c754-27b9-43aa-a19d-708536a95e63)">
+                <rect x="285.36" y="235.36" width="67.51" height="43.48" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#965a073f-9ac9-4c5c-bc5f-18a8ad5bcb03)">
+                <rect x="285.36" y="267.32" width="11.31" height="11.79" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#d1e13366-0e50-4d1f-a617-9513f28e15ac)">
+                <rect x="229.16" y="203.19" width="66.2" height="43.48" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+            <g style="clip-path:url(#156a7038-6c7f-4fe7-aac7-273ea9e34ab6)">
+                <rect x="285.36" y="202.91" width="11.31" height="11.79" style="fill:#e06727;opacity:0.6000000238418579" />
+            </g>
+        </g>
+    </g>
+</svg>
