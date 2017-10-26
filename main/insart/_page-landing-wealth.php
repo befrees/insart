@@ -147,12 +147,12 @@
                                 <div class="_inner">
                                     <div class="_ttl">
                                         <span class="slash">/</span>
-                                        <a href="<?php echo $item['link'] ?>"><?php echo $item['title'] ?></a>
+                                        <a href="<?php echo $item['link_title'] ?>" target="_blank"><?php echo $item['title'] ?></a>
                                     </div>
                                     <div class="_caption"></span><?php echo $item['caption'] ?></div>
-                                    <figure><a href="<?php echo $item['link'] ?>"><img src="<?php echo $item['image']['url'] ?>" alt=""></a></figure>
+                                    <figure><a href="<?php echo $item['link'] ?>" target="_blank"><img src="<?php echo $item['image']['url'] ?>" alt=""></a></figure>
                                     <div class="_txt"><?php echo $item['text'] ?></div>
-                                    <p class="_more"><a href="<?php echo $item['link'] ?>">> Read More</a></p>
+                                    <p class="_more"><a href="<?php echo $item['link'] ?>" target="_blank">> Read More</a></p>
                                 </div>
                             </div>
                         <?php endforeach; endif; ?>
