@@ -63,7 +63,8 @@ get_header(); ?>
               </p>
             </header>
             <div class="post__image">
-              <a href="<?php echo get_permalink(); ?>"><?php the_post_thumbnail( array(800, 600)) ?></a>
+              <?php $class_sepia = get_field('sepia') ? 'sepia-img' : '' ?>
+              <a href="<?php echo get_permalink(); ?>"><?php the_post_thumbnail( array(800, 600), array('class'=> $class_sepia)) ?></a>
             </div>
             <div class="post__content">
               <p>

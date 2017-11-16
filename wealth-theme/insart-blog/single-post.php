@@ -29,7 +29,8 @@ get_header('index'); ?>
           </p>
           </header>
           <div class="post__image">
-            <?php the_post_thumbnail( array(600, 400)) ?>
+              <?php $class_sepia = get_field('sepia') ? 'sepia-img' : '' ?>
+            <?php the_post_thumbnail( array(600, 400), array('class'=> $class_sepia)) ?>
           </div>
           <div class="post__content">
             <?php the_content(); ?>

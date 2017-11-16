@@ -1239,12 +1239,15 @@ article p {
     border-radius: 0;
     display: block;
     max-width: 100%;
-    -webkit-filter: sepia(25%) brightness(107%);
-    filter: sepia(25%) brightness(107%);
+    /*-webkit-filter: sepia(25%) brightness(107%);
+    filter: sepia(25%) brightness(107%);*/
     margin: auto;
     /*opacity: .93;*/
 }
-
+.sepia-img {
+    -webkit-filter: sepia(25%) brightness(107%);
+    filter: sepia(25%) brightness(107%);
+}
 .post__content {
     margin-bottom: 38px;
     line-height: 21px;
