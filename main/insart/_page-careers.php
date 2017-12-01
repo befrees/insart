@@ -100,7 +100,7 @@ $hirings = get_posts('post_type=vacancy&orderby=menu_order&order=asc&numberposts
                 <?php foreach($team as $item): ?>
                     <div class="col-md-3">
                     <div class="hdr-item">
-                        <figure class="hdr-photo"><?php echo get_the_post_thumbnail($item->ID, 'full', array('class'=>'img-circle')); ?></figure>
+                        <figure class="hdr-photo"><?php echo get_the_post_thumbnail($item->ID, 'img_big', array('class'=>'img-circle')); ?></figure>
                         <div class="hdr-name h4"><?php echo $item->post_title; ?></div>
                         <div class="hdr-post"><?php echo get_field('team_post', $item->ID) ?></div>
                         <div class="hdr-descr"><?php echo get_the_excerpt($item->ID); ?></div>

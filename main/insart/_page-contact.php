@@ -24,7 +24,7 @@ $events = get_posts('cat=3&numberposts=-1');
                     <p class="op-60">We can't wait to hear from you!</p>
                 </div>
             </div>
-            <div class="header-bg" style="background-image: url(<?= (has_post_thumbnail($post->ID)) ? get_the_post_thumbnail_url($post->ID, 'full') : get_template_directory_uri() . '/img/bg-bottom.jpg'; ?>)"></div>
+            <div class="header-bg" style="background-image: url(<?= (has_post_thumbnail($post->ID)) ? get_the_post_thumbnail_url($post->ID, 'img_big') : get_template_directory_uri() . '/img/bg-bottom.jpg'; ?>)"></div>
             <button class="go-down"><i class="ic-down"></i></button>
         </header>
         <div class="middle nopadding-top" id="middle">
@@ -48,9 +48,9 @@ $events = get_posts('cat=3&numberposts=-1');
                             <div class="event-inner">
                                 <figure><?php echo get_the_post_thumbnail($item->ID, 'img_276_176'); ?></figure>
                                 <div class="_name h4"><?php echo $item->post_title; ?></div>
-                                <div class="_date"><?php echo get_the_date('M.d.Y', $item->ID) ?></div>
+                                <div class="_date"><?= get_field('date', $item->ID) ?><?php //echo get_the_date('M.d.Y', $item->ID) ?></div>
                                 <div class="_descr"><?php echo get_the_excerpt($item->ID); ?></div>
-                                <div class="_more"><a href="<?php echo get_permalink($item->ID); ?>" class="more-link" target="_blank">> More Details</a></div>
+                                <div class="_more"><a href="<?= get_field('link', $item->ID) ?>" class="more-link" target="_blank">> More Details</a></div>
                                 <div class="social-buttons">
                                  <?php if(get_field('fb_link', $item->ID)): ?>
                                     <a href="<?= get_field('fb_link', $item->ID) ?>" target="_blank"><?php include get_template_directory()."/img/svg/ic-fb.svg" ?>

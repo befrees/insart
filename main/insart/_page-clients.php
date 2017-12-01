@@ -33,7 +33,9 @@ $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=a
                             <div class="client-inner">
                                 <figure class="_logo"><?php echo get_field('logo_svg', $item->ID) ?></figure>
                                 <div class="_descr"><?php echo get_the_excerpt($item->ID); ?></div>
+                                <?php if(get_field('show_case', $item->ID)): ?>
                                 <div class="_more"><a href="<?php echo get_permalink($item->ID); ?>">> Check the Case Study</a></div>
+                            <?php endif; ?>
                             </div>
                         </div>
                     <?php endforeach ?>

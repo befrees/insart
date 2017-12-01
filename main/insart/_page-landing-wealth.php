@@ -104,7 +104,7 @@
             
             <div class="box-expertise section fp-auto-height" data-section="#expertise" id="expertise" data-anchor="box-expertise">
                 <div class="container container_expertise">
-                    <div class="h1 title-box text-center mid-line"><span>Expertise</span></div>
+                    <div class="h1 title-box text-center mid-line"><span><span class="hide-mobile">WealthTech & Robo-Advising Expertise</span><span class="hide-pc">WealthTech & Robo</span></span></div>
                     <div class="box-exp-text text-center"><p><?php echo get_field('text_exp') ?></p></div>
                     <div class="box-exp-content row flexbox flex-wrap">
                         <?php if($expertise = get_field('expertise_items')): foreach($expertise as $item):  ?>

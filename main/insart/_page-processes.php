@@ -193,7 +193,8 @@
                         </div>
                     </div>
                     <div class="_more text-center"><a href="<?= get_permalink($client->ID); ?>" class="btn btn-warning btn-sm">LEARN MORE</a></div>
-                    <div class="bg-slide" style="background-image: url('<?php echo get_field(  'baner',$client->ID ) ?>"><div class="bg-mask"></div></div>
+                    <?php $img = get_field(  'baner',$client->ID ); ?>
+                        <div class="bg-slide" style="background-image: url('<?php echo $img['sizes']['img_big']  ?>"><div class="bg-mask"></div></div>
                 </div>
                 <?php endforeach; ?>
             </div>
@@ -239,7 +240,7 @@
                             <?php foreach($insights as $insight): ?>
                                 <div class="_item-post">
                                     <div class="_inner">
-                                        <figure><a href="<?php echo get_permalink($insight->ID); ?>"><?php echo get_the_post_thumbnail($insight->ID, 'img_276_166', array('class'=>'img-border img-thumbnail')); ?></a></figure>
+                                        <figure><a href="<?php echo get_permalink($insight->ID); ?>"><?php echo get_the_post_thumbnail($insight->ID,  array(376, 215), array('class'=>'img-border img-thumbnail')); ?></a></figure>
                                         <div class="_title h5"><a href="<?php echo get_permalink($insight->ID); ?>"><?php echo $insight->post_title; ?></a></div>
                                         <div class="_date"><?php echo get_the_date('M.d.Y', $insight->ID) ?></div>
                                         <div class="_entry"><?php echo get_the_excerpt($insight->ID); ?></div>

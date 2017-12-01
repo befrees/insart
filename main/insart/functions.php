@@ -1,7 +1,5 @@
 <?php
 
-include get_template_directory() . '/src/custom-fields.php';
-
 // Отключаем админ панель для всех пользователей
 show_admin_bar(false);
 register_sidebar(array(
