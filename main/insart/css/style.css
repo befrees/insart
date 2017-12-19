@@ -2890,7 +2890,9 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .top-line .logo a { display: inline-block; overflow: hidden; text-indent: -900px; height: 50px; width: 170px; background: url(../img/logo-blue.svg) no-repeat 0 0; }
 
-.header-color .top-line .logo a, .open .top-line .logo a { background: url(../img/logo-white.svg) no-repeat 0 0; }
+.header-color .top-line .logo a, 
+.open .top-line .logo a { background: url(../img/logo-white-land.svg) no-repeat 0 0; }
+.header-color .top-line .logo-landing a { background: url(../img/logo-white-land.svg) no-repeat 0 0; }
 
 .uk-active .top-line .logo a { background: url(../img/logo-blue.svg) no-repeat 0 0 !important; }
 
@@ -2972,7 +2974,7 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .header-content > * { width: 100%; }
 
-.header-content .header-caption { margin-bottom: 26px; }
+.header-content .header-caption { margin-bottom: 26px; line-height: 1.2; }
 
 @media (min-width: 980px) { .header-content .header-caption { font-size: 60px; line-height: 1.2; } }
 
@@ -3734,7 +3736,14 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .box-contacts ._form textarea { height: 132px; resize: none; font-size: 16px; color: #454545; padding-left: 15px; padding-right: 15px; }
 
-.box-contacts .row_bottom_cnt .col_bottom_cnt { padding: 0; }
+.box-contacts .row_bottom_cnt .col_bottom_cnt { 
+  padding: 0;
+  float: none;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 450px;
+    max-width: 100%;
+     }
 
 .box-contacts .row_bottom_cnt .col_bottom_cnt .col-md-6 { padding: 0 10px; }
 

@@ -42,7 +42,7 @@
     <div class="wrapper page-clients">
         <header id="site-header" class="header header-image full-height header-full header-landing header-color">
             <div class="top-line flexbox just-between" id="bs-navbar-collapse-1" data-uk-sticky="{top:-5,  animation: 'uk-animation-slide-top'}">
-                <div class="logo">
+                <div class="logo logo-landing">
                     <a href="<?php echo home_url(); ?>" class="logo-link">Insart</a>
                 </div>
                 <div class="top-line-right flexbox">

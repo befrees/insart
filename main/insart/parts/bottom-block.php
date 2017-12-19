@@ -1,4 +1,4 @@
-<div class="bottom-block full-height">
+<div class="bottom-block full-height" style="background-image: url(<?php echo get_the_post_thumbnail_url( 102,'full' ); ?>);">
 	<div class="container flexbox">
 		<div class="row flexbox">
 			<div class="_inner-bottom-block text-center">
