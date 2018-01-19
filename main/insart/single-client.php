@@ -19,7 +19,7 @@
             <div class="header-content flexbox flex-wrap text-center container">
 
             <div class="single-client-logo"><?php 
-            if(!get_field('show_client_logo')){
+            if(!get_field('hide_client_logo')){
                  echo get_field('logo_svg', $post->ID);
             }
             ?></div>
