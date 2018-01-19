@@ -9,7 +9,7 @@ $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=a
 <head>
     <?php get_header('head') ?>
 </head>
-<body>
+<body <?php body_class() ?>>
     <div class="wrapper page-clients">
         <header id="site-header" class="header header-image header-inner header-nocolor">
             <?php get_template_part( 'parts/top-line' ); ?>

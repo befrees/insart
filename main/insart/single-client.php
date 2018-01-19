@@ -18,7 +18,11 @@
 
             <div class="header-content flexbox flex-wrap text-center container">
 
-            <div class="single-client-logo"><?php echo get_field('logo_svg', $post->ID) ?></div>
+            <div class="single-client-logo"><?php 
+            if(!get_field('show_client_logo')){
+                 echo get_field('logo_svg', $post->ID);
+            }
+            ?></div>
 
                 <!-- <div class="header-caption h72">To be everywhere is to be nowhere.</div> -->
 
@@ -64,7 +68,8 @@
 
                                 <div class="col-md-10 col-md-offset-1">
 
-                                    <?php $reviews = get_posts('post_type=review&meta_key=client&meta_value='.$post->ID); ?>
+                                    <?php /*
+                                     $reviews = get_posts('post_type=review&meta_key=client&meta_value='.$post->ID); ?>
 
                                 <div class="block-testimonials-container">
 
@@ -110,8 +115,8 @@
 
                                     </div>
 
-                                </div>
-
+                                </div> <!-- .block-testimonials-container -->
+*/ ?>
                                 </div>
 
                             </div>
@@ -214,6 +219,7 @@
 
                         </div>
                         <?php endif; ?>
+                        <?php if(get_field('summary')): ?>
                         <div class="container-fluid block-summary content-top content-bg">
 
                             <div class="container">
@@ -233,6 +239,9 @@
                             </div>
 
                         </div>
+                    <?php else: ?>
+                        <br><br>
+                    <?php endif; ?>
 
                         <?php get_template_part( 'parts/bottom-block' ); ?>
 
