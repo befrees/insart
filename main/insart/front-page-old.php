@@ -132,7 +132,7 @@
 				<div class="slide-item">
 
 					<div class="cl-logo">
-						<?php if(!get_field('hide_client_logo')): ?>
+						<?php if(!get_field('hide_client_logo', $client->ID)): ?>
 						<?= get_post_meta( $client->ID, 'logo_svg', 1 ) ; ?>
 							<?php endif; ?>
 						</div>
