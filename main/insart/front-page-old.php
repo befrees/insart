@@ -92,6 +92,7 @@
 				// print_r($clients);
 
 				 ?>
+				 <?php /* ?>
 <div class="container-fluid content-top content-bg">
                 <div class="container">
                     <?php $page_clients = get_post(96); ?>
@@ -118,7 +119,7 @@
                     <?php endforeach ?>
                 </div>
             </div>
-<?php /* ?>
+<?php */ ?>
 		<div class="block-clients full-height flexbox flex-wrap">
 			<div class="slider-clients">
 
@@ -130,7 +131,11 @@
 
 				<div class="slide-item">
 
-					<div class="cl-logo"><?= get_post_meta( $client->ID, 'logo_svg', 1 ) ; ?></div>
+					<div class="cl-logo">
+						<?php if(!get_field('hide_client_logo')): ?>
+						<?= get_post_meta( $client->ID, 'logo_svg', 1 ) ; ?>
+							<?php endif; ?>
+						</div>
 
 					<div class="container flexbox flex-wrap">
 
@@ -166,7 +171,7 @@
 				<div class="arrows-container"></div>
 		</div>
 
-<?php */ ?>
+
 		<div class="block-testimonials-home">
 
 			<div class="container">
