@@ -183,7 +183,11 @@
                 // $cl_meta = get_metadata('post', $client->ID, '',1); ?>
                 <!-- <pre><?php //print_r( get_field(  'baner',$client->ID )) ?></pre> -->
                 <div class="slide-item">
-                    <div class="cl-logo"><?= get_post_meta( $client->ID, 'logo_svg', 1 ) ; ?></div>
+                    <div class="cl-logo">
+                        <?php if(!get_field('hide_client_logo', $client->ID)): ?>
+                            <?= get_post_meta( $client->ID, 'logo_svg', 1 ) ; ?>
+                            <?php endif; ?>
+                        </div>
                     <div class="container flexbox flex-wrap">
                         <div class="text-center _slide-inner">
                             <div class="h1 _title"><?= get_post_meta( $client->ID, 'caption', 1 ); ?></div>
@@ -192,7 +196,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="_more text-center"><a href="<?= get_permalink($client->ID); ?>" class="btn btn-warning btn-sm">LEARN MORE</a></div>
+                    <?php if(get_field('show_case', $client->ID)): ?>
+                        <div class="_more text-center"><a href="<?= get_permalink($client->ID); ?>" class="btn btn-warning btn-sm">LEARN MORE</a></div>
+                        <?php endif; ?>
                     <?php $img = get_field(  'baner',$client->ID ); ?>
                         <div class="bg-slide" style="background-image: url('<?php echo $img['sizes']['img_big']  ?>"><div class="bg-mask"></div></div>
                 </div>
@@ -202,8 +208,8 @@
         </div>
         <div class="block-testimonials-home">
             <div class="container">
-            <?php $reviews = get_posts('post_type=review'); ?>
-                <div class="h2 title-block text-center">Clients Testimonials</div>
+            <?php $reviews = get_posts('post_type=review&numberposts=-1'); ?>
+                <div class="h2 title-block text-center">Testimonials</div>
                 <div class="block-testimonials-container">
                     <div class="testimonials-slider dots-yellow">
                         <?php foreach($reviews as $review): ?>
@@ -234,7 +240,7 @@
         <?php $insights = get_posts('cat=1') ?>
                 <div class="block-insights-home">
                     <div class="container">
-                        <div class="h1 title-block text-center">Processes Insights</div>
+                        <div class="h1 title-block text-center">Latest Insights</div>
                         <div class="insights-container container">
                             <div class="slider-insights dots-yellow">
                             <?php foreach($insights as $insight): ?>

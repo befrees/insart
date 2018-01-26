@@ -176,9 +176,9 @@
 
 			<div class="container">
 
-			<?php $reviews = get_posts('post_type=review'); ?>
+			<?php $reviews = get_posts('post_type=review&numberposts=-1'); ?>
 
-				<div class="h2 title-block text-center">Clients Testimonials</div>
+				<div class="h2 title-block text-center">Testimonials</div>
 
 				<div class="block-testimonials-container">
 

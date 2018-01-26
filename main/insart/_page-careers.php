@@ -19,7 +19,7 @@ $hirings = get_posts('post_type=vacancy&orderby=menu_order&order=asc&numberposts
 <head>
     <?php get_header('head') ?>
 </head>
-<body>
+<body <?php body_class(); ?>>
     <div class="wrapper page-clients">
         <header id="site-header" class="header header-image header-inner header-nocolor">
             <?php get_template_part( 'parts/top-line' ); ?>
@@ -53,7 +53,10 @@ $hirings = get_posts('post_type=vacancy&orderby=menu_order&order=asc&numberposts
             </div>
             <!-- We are hiring -->
             
-            <div class="container-fluid full-height flexbox hiring-container">
+            <div class="container-fluid full-height flexbox hiring-container"
+            <?php if(has_post_thumbnail($post->ID)){ ?>
+             style="background-image: url(<?php echo get_the_post_thumbnail_url($post->ID, 'full'); ?>)" 
+                <?php } ?>>
                 <div class="hiring-block">
                     <div class="title-block text-center h1">We are hiring</div>
                     <div class="hiring-list">
