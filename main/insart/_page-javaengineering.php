@@ -305,7 +305,7 @@ $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=a
 
             <div class="block-clients full-height flexbox flex-wrap">
 
-            <?php $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=asc'); ?>
+            <?php $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=asc&meta_key=show_java&meta_value=1'); ?>
 
                 <div class="slider-clients">
 

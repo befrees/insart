@@ -2,7 +2,7 @@
 /**
 * Template name: Clients page
 */
-$clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=asc');
+$clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=asc&meta_key=show_in_list&meta_value=1');
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -174,6 +174,7 @@
                 </div>
             </div> <!-- .block-proc-steps -->
             <?php endwhile; ?>
+            <?php /* ?>
             <div class="block-clients full-height flexbox flex-wrap">
         <?php $clients = get_posts('post_type=client&numberposts=-1&orderby=menu_order&order=asc');
                 // print_r($clients);
@@ -205,7 +206,9 @@
                 <?php endforeach; ?>
             </div>
                 <div class="arrows-container"></div>
-        </div>
+        </div> <!-- .block-clients -->
+        <?php */ ?>
+        <?php /* ?>
         <div class="block-testimonials-home">
             <div class="container">
             <?php $reviews = get_posts('post_type=review&numberposts=-1'); ?>
@@ -235,6 +238,7 @@
                 </div>
             </div>
         </div> <!-- .block-testimonials-home -->
+        <?php */ ?>
         <?php get_template_part( 'parts/bottom-block' ); ?>
 
         <?php $insights = get_posts('cat=1') ?>
