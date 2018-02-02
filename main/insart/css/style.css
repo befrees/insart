@@ -2692,6 +2692,12 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 
 .slick-arrow.slick-next { background-image: url(../img/svg/arrow-right.svg); right: 0; }
 
+.block-clients .slick-arrow.slick-prev {
+  left: 20px;
+}
+.block-clients .slick-arrow.slick-next {
+  right: 20px;
+}
 .slick-arrow.slick-hidden { display: none; }
 
 .slick-dots { display: block; list-style: none; text-align: center; margin: 0; padding: 0; }
@@ -2942,6 +2948,18 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .super-menu > .super-menu-container { margin: 120px auto 0; max-height: 90%; }
 
+@media screen and (max-width: 768px) {
+  .top-line {
+    height: 80px;
+  }
+  .super-menu > .super-menu-container {
+    margin-top: 80px;
+  }
+  .top-line .logo {
+    margin-top: 20px;
+  }
+}
+
 .super-menu > .super-menu-container .super-menu-inner { max-height: 90vh; }
 
 .super-menu > .super-menu-container ul.menu { margin-left: 50px; margin-right: 50px; }
@@ -3113,11 +3131,21 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .slider-clients .slide-item ._descr { max-width: 940px; margin: 0 auto; font-size: 18px; color: #fff; }
 
-.slider-clients .slide-item ._more { position: absolute; bottom: 17%; width: 100%; }
+.slider-clients .slide-item ._more { 
+  position: absolute; 
+  /*bottom: 17%;*/
+  bottom: 12vh;
+  width: 100%; }
 
 .slider-clients .bg-slide { position: absolute; z-index: -1; -webkit-background-size: cover; -o-background-size: cover; background-size: cover; background-repeat: no-repeat; background-position: center 0; left: 0; top: 0; right: 0; bottom: 0; }
 
-.slider-clients .slick-dots { position: absolute; bottom: 6%; left: 0; width: 100%; }
+.slider-clients .slick-dots { 
+  position: absolute; 
+  /*bottom: 6%; */
+  bottom: 5vh;
+  left: 0; 
+  width: 100%;
+   }
 
 .slider-clients .slick-dots .slick-active button { background-color: #fff; }
 
@@ -3641,7 +3669,25 @@ form .wpcf7-not-valid { color: #ff0000; border-color: #ff0000; background: #fff 
 
 .contacts-text p { line-height: 2.35; margin-bottom: 28px; }
 
-.modal.in .modal-dialog { -webkit-transform: translate(0, -50%); -moz-transform: translate(0, -50%); -ms-transform: translate(0, -50%); -o-transform: translate(0, -50%); transform: translate(0, -50%); top: 50%; }
+.modal.in .modal-dialog { 
+  -webkit-transform: translate(0, -50%); 
+  -moz-transform: translate(0, -50%); 
+  -ms-transform: translate(0, -50%); 
+  -o-transform: translate(0, -50%);
+   transform: translate(0, -50%);
+    top: 50%;
+     }
+@media screen and (max-width: 768px) {
+  .modal.in .modal-dialog {
+    -webkit-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    -o-transform: translate(0,0);
+    transform: translate(0,0);
+  }
+  .modal.in .modal-dialog textarea {
+    max-height: 180px;
+  }
+}
 
 .title-box { font-size: 42px; color: #5C5C5C; position: relative; }
 
