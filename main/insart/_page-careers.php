@@ -41,7 +41,7 @@ $hirings = get_posts('post_type=vacancy&orderby=menu_order&order=asc&numberposts
                 <div class="row gallery-list flexbox flex-wrap">
                     <?php foreach(get_field('gallery') as $item): ?>
                         <div class="_item-gall">
-                        <img src="<?php echo $item['photo']['url'] ?>" alt="<?php echo $item['photo']['alt'] ?>">
+                        <img src="<?= $item['photo']['url'] ?>" alt="<?= $item['photo']['alt'] ?>" width="<?= $item['photo']['width'] ?>" height="<?= $item['photo']['height'] ?>">
                             <div class="gall-caption">
                                 <div class="_title h5"><?php echo $item['photo']['title']; ?></div>
                                 <div class="_descr b6"><?php echo $item['photo']['description']; ?></div>

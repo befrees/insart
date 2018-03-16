@@ -52,7 +52,12 @@ $(document).ready(function() {
         e.preventDefault();
         $('.vacancy-item').hide();
         $('.hiring-block').fadeIn(200);
-        $('.vacancy-items-popup, .popup').fadeOut(200);
+        $('.vacancy-items-popup, .popup').fadeOut(200, function(){
+            if (history.pushState) {
+                var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname
+                window.history.pushState({ path: newurl }, '', newurl);
+            }
+        });
     });
     /**
      * Show vacancy
@@ -60,15 +65,34 @@ $(document).ready(function() {
     $('.open-vacancy').on('click', function(e) {
         e.preventDefault();
         var idShow = $(this).attr('href');
+        // var block = $('.hiring-container');
+        // var topPos = block.offset().top;
+        // $('html, body').animate({scrollTop: topPos})
+        // console.log(idShow);
+        // $('.vacancy-item').hide();
+        // $('.hiring-block, .vacancy-form-popup').fadeOut(200);
+        // $('.vacancy-items-popup').fadeIn(200);
+        // $('.vacancy-item' + idShow).fadeIn(200);
+        openVacancy(idShow);
+    });
+
+    // console.log(window.location);
+
+    var openVacancy = (function openVacancy(idShow){
+        if(!idShow) return openVacancy;
         var block = $('.hiring-container');
         var topPos = block.offset().top;
         $('html, body').animate({scrollTop: topPos})
-        console.log(idShow);
         $('.vacancy-item').hide();
         $('.hiring-block, .vacancy-form-popup').fadeOut(200);
         $('.vacancy-items-popup').fadeIn(200);
         $('.vacancy-item' + idShow).fadeIn(200);
-    });
+        if (history.pushState) {
+                var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + idShow;
+                window.history.pushState({ path: newurl }, '', newurl);
+            }
+        return openVacancy;
+    }(window.location.hash));
 
     /**
      * Show form vacancy
